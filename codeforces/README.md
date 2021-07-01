@@ -1,2 +1,2 @@
 # competitive-programming
-Competitve programming solutions
+codeforces competitve programming solutions
