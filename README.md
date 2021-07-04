@@ -1,9 +1,22 @@
 # competitive-programming
 
+my solutions of websites 
+
+1. Codechef
+1. Codeforces
+1. Hackerank
+1. Leetcode
+
+----
+
 - [Codechef](#codechef)
 - [Codeforces](#codeforces)
 
+----
+
 ## Codechef
+
+----
 
 ## Codeforces
 
