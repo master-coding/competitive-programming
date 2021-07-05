@@ -31,3 +31,4 @@ my solutions of websites
 |Two Rabbits |800|[Problem link](https://codeforces.com/contest/1304/problem/A)| |
 |Common Subsequence |800 |[Problem link](https://codeforces.com/problemset/problem/1382/A) | |
 |Patrick and Shopping |800 |[Problem link](https://codeforces.com/problemset/problem/599/A) | |
+|There Are Two Types of Burgers |800 |[Problem link](https://codeforces.com/problemset/problem/1207/A) | |
