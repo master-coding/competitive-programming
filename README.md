@@ -1,6 +1,6 @@
 # competitive-programming
 
-my solutions of websites 
+my solutions of websites
 
 1. Codechef
 1. Codeforces
@@ -29,3 +29,4 @@ my solutions of websites
 |Restore the Permutation by Merger |800|[Problem link](https://codeforces.com/contest/1385/problem/B)| |
 |Arrival of the General |800|[Problem link](https://codeforces.com/contest/144/problem/A)| |
 |Two Rabbits |800|[Problem link](https://codeforces.com/contest/1304/problem/A)| |
+|Common Subsequence |800 |[Problem link](https://codeforces.com/problemset/problem/1382/A) | |
