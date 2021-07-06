@@ -32,3 +32,4 @@ my solutions of websites
 |Common Subsequence |800 |[Problem link](https://codeforces.com/problemset/problem/1382/A) | |
 |Patrick and Shopping |800 |[Problem link](https://codeforces.com/problemset/problem/599/A) | |
 |There Are Two Types of Burgers |800 |[Problem link](https://codeforces.com/problemset/problem/1207/A) | |
+|Two Brackets |800 |[Problem link](https://codeforces.com/problemset/problem/1452/C)| |
