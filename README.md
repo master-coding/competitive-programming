@@ -33,3 +33,4 @@ my solutions of websites
 |Patrick and Shopping |800 |[Problem link](https://codeforces.com/problemset/problem/599/A) | |
 |There Are Two Types of Burgers |800 |[Problem link](https://codeforces.com/problemset/problem/1207/A) | |
 |Two Brackets |800 |[Problem link](https://codeforces.com/problemset/problem/1452/C)| |
+|Alexey and Train |800 |[Problem link](https://codeforces.com/problemset/problem/1501/A)| |
