@@ -34,3 +34,4 @@ my solutions of websites
 |There Are Two Types of Burgers |800 |[Problem link](https://codeforces.com/problemset/problem/1207/A) | |
 |Two Brackets |800 |[Problem link](https://codeforces.com/problemset/problem/1452/C)| |
 |Alexey and Train |800 |[Problem link](https://codeforces.com/problemset/problem/1501/A)| |
+|Unique Number |900 |[Problem link](https://codeforces.com/problemset/problem/1462/C)| |
