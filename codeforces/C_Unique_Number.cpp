@@ -45,5 +45,23 @@ int main() {
            cout << 123456789 << nl;
         else
             cout << -1 << nl;
+        // time complexity of this operation is O(1)
+
+        // vi v;
+        // int sum = 0, last = 9;
+        // while (sum < n && last > 0) {
+        //     v.pb(min(n - sum, last));
+        //     sum += last;
+        //     last--;
+        // }
+
+        // if (sum < n)
+        //     cout << -1 << nl;
+        // else {
+        //     reverse(v.begin(), v.end());
+        //     for (int i : v)
+        //         cout << i;
+        //     newline;
+        // }
     }
 }
