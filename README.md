@@ -36,3 +36,9 @@ my solutions of websites
 |Alexey and Train |800 |[Problem link](https://codeforces.com/problemset/problem/1501/A)| |
 |Prison Break |800 |[Problem link](https://codeforces.com/contest/1482/problem/A)| |
 |Unique Number |900 |[Problem link](https://codeforces.com/problemset/problem/1462/C)| |
+
+## LeetCode
+
+|Problem No. | Problems            |Tag | Problem Link  | Solution|
+|:---:       | ------------------- |:---:| -----   | --- |
+|0083 |Remove Duplicates From Sorted List |Easy |[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| |
