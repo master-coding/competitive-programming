@@ -57,6 +57,16 @@
 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)|[Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/arraysIntroduction.cpp) |
 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/pointer.cpp) |
 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/variableSizedArrays.cpp) |
-<!-- | []()| | -->
-<!-- | []()| | -->
-<!-- | []()| | -->
+| [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/strings.cpp)|
+| [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/structs.cpp)|
+| [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/class.cpp)|
+| [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/vectorSort.cpp)|
+| [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/vectorErase.cpp)|
+| [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/setsSTL.cpp)|
+| [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem?isFullScreen=true)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/mapsSTL.cpp)|
+| [Lower-Bound STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem?isFullScreen=true)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/lowerBoundSTL.cpp)|
+| [](https://www.hackerrank.com/challenges/deque-stl/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/strings.cpp)|
+| [Hotel-Prices](https://www.hackerrank.com/challenges/hotel-prices/problem)| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/hotelPrices.cpp)|
+<!-- | []()| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/strings.cpp)| -->
+<!-- | []()| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/strings.cpp)| -->
+<!-- | []()| [Solution](https://github.com/master-coding/competitive-programming/blob/main/HackeRank/C%2B%2B/strings.cpp)| -->
