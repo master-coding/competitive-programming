@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/copy-from/206787425
+// https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
 
 #include <bits/stdc++.h>
 using namespace std;
