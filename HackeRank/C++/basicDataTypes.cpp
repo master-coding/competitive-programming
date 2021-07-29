@@ -1,5 +1,3 @@
-// https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/copy-from/206376283
-
 #include <iostream>
 #include <cstdio>
 #include <iomanip>
