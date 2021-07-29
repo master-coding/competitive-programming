@@ -32,7 +32,7 @@
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
 |    1301A     | [Three Strings](https://codeforces.com/problemset/problem/1301/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_Strings.cpp) |
-|    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
+|    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
 
 ## LeetCode
 
