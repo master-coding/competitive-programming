@@ -12,7 +12,11 @@
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
-|    LECANDY     | [Little Elephant and Candies](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) |
+|    LECANDY   | [Little Elephant and Candies](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) |
+|    MSNSADM1  | [Football](https://www.codechef.com/problems/MSNSADM1) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Football.cpp) |
+<!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
+<!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
+<!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
 
 ----
 
