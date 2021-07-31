@@ -44,6 +44,7 @@
 |    1301A     | [Three Strings](https://codeforces.com/problemset/problem/1301/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_Strings.cpp) |
 |    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
 |    1554A     | [Cherry](https://codeforces.com/problemset/problem/1554/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cherry.cpp) |
+|    1555A     | [PizzaForces](https://codeforces.com/problemset/problem/1555/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_PizzaForces.cpp) |
 <!-- |    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) | -->
 
 ## LeetCode
