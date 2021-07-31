@@ -12,8 +12,10 @@
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
+|    KTTABLE   | [](https://www.codechef.com/problems/KTTABLE) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Kitchen_Tiimetable.cpp) |
 |    LECANDY   | [Little Elephant and Candies](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) |
 |    MSNSADM1  | [Football](https://www.codechef.com/problems/MSNSADM1) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Football.cpp) |
+|    WATSCORE     | [](https://www.codechef.com/problems/WATSCORE) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/That_Is_My_Score.cpp) |
 <!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
 <!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
 <!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
