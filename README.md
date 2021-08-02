@@ -51,9 +51,10 @@
 ## LeetCode
 
 | Problem No. | Problems                           |  Tag  |  Solution |
-| :---------: | ---------------------------------- | :---: | -------- |
-|    0083     | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy  |  |         
-|    0162     | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium  |  |  
+| :--------- | ---------------------------------- | :---: | -------- |        
+|    162     | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium  |  |  
+|    83     | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy  |  |         
+|    1     | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy  |  |  
 
 ---
 
