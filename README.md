@@ -52,9 +52,9 @@
 
 | Problem No. | Problems                           |  Tag  |  Solution |
 | :--------- | ---------------------------------- | :---: | -------- |        
-|    162     | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium  |  |  
-|    83     | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy  |  |         
-|    1     | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy  |  |  
+|    162     | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium  |[Solution](https://github.com/master-coding/competitive-programming/blob/main/Leetcode/FindPeakElement.cpp)  |  
+|    83     | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy  |[Solution](https://github.com/master-coding/competitive-programming/blob/main/Leetcode/RemoveDuplicatesFromSortedList.cpp)  |         
+|    1     | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy  |[Solution](https://github.com/master-coding/competitive-programming/blob/main/Leetcode/twoSum.cpp)|  
 
 ---
 
