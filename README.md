@@ -36,7 +36,9 @@
 |    1542A     | [Odd Set](https://codeforces.com/problemset/problem/1542/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Odd_Set.cpp) |
 |    1542A     | [Odd Set](https://codeforces.com/problemset/problem/1542/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Odd_Set.cpp) |
 |    1541A     | [Odd Set](https://codeforces.com/problemset/problem/1541/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pretty_Permutations.cpp) |
+|    1539B     | [Love Song](https://codeforces.com/problemset/problem/1539/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_Song.cpp) |
 |    1527A     | [And Then There Were K](https://codeforces.com/problemset/problem/1527/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_And_There_Were_K.cpp) |
+|    1515A     | [Phoenix and Gold](https://codeforces.com/problemset/problem/1515/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Gold.cpp) |
 |    1512A     | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Spy_Detected.cpp) |
 |    1490B     | [Balanced Remainders](https://codeforces.com/problemset/problem/1490/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Balanced_Remainders.cpp) |
 |    1490A     | [Dense Array](https://codeforces.com/problemset/problem/1490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dense_Array.cpp) |
@@ -45,6 +47,7 @@
 |    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
 |    1473A     | [Replacing Elements](https://codeforces.com/problemset/problem/1473/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Replacing_Elements.cpp) |
 |    1472B     | [Fair Division](https://codeforces.com/problemset/problem/1472/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fair_Division.cpp) |
+|    1472A     | [Cards for Friends](https://codeforces.com/problemset/problem/1472/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_for_Friends.cpp) |
 |    1466A     | [Bovine Dilemma](https://codeforces.com/problemset/problem/1466/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bovine_Dilemma.cpp) |
 |    1453A     | [Cancel The Trains](https://codeforces.com/problemset/problem/1453/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cancel_the_Trains.cpp) |
 |    1452C     | [Two Brackets](https://codeforces.com/problemset/problem/1452/C) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/C_Two_Brackets.cpp) |
@@ -52,6 +55,7 @@
 |    1433B     | [Yet Another Bookshelf](https://codeforces.com/problemset/problem/1433/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Yet_Another_Bookshelf.cpp) |
 |    1417A     | [Copy Paste](https://codeforces.com/problemset/problem/1417/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Copy_paste.cpp) |
 |    1411B     | [Fair Numbers](https://codeforces.com/problemset/problem/1411/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Numbers.cpp) |
+|    1399B     | [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gifts_Fixing.cpp) |
 |    1397A     | [Juggling Letters](https://codeforces.com/problemset/problem/1397/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Juggling_Letters.cpp) |
 |    1382A     | [C+=](https://codeforces.com/problemset/problem/1382/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_C_.cpp) |
 |    1385B     | [Restore the Permutation by Merger](https://codeforces.com/problemset/problem/1385/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Restore_the_Permutation_by_Merger.cpp) |
@@ -61,7 +65,9 @@
 |    1360A     | [Minimal Square](https://codeforces.com/problemset/problem/1360/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minimal_Square.cpp) |
 |    1353B     | [Two Arrays And Swaps](https://codeforces.com/problemset/problem/1353/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Arrays_And_Swaps.cpp) |
 |    1353A     | [Most Unstable Array](https://codeforces.com/problemset/problem/1353/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Most_Unstable_Array.cpp) |
+|    1348A     | [Phoenix and Balance](https://codeforces.com/problemset/problem/1348/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Balance.cpp) |
 |    1304A     | [Two Rabbits](https://codeforces.com/problemset/problem/1304/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rabbits.cpp) |
+|    1311A     | [Add Odd or Subract Even](https://codeforces.com/problemset/problem/1311/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Add_Odd_or_Subtract_Even.cpp) |
 |    1294A     | [Collecting Coins](https://codeforces.com/problemset/problem/1294/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Collecting_Coins.cpp) |
 |    1207A     | [There Aret Two Types of Burgers](https://codeforces.com/problemset/problem/1207/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_There_Are_Two_Types_Of_Burgers.cpp) |
 |    1206A     | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choose_Two_Numbers.cpp) |
@@ -71,10 +77,12 @@
 |    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
 |    731A     | [Night at the Museum](https://codeforces.com/problemset/problem/731/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Night_at_the_Museum.cpp) |
 |    716A     | [Crazy Computer](https://codeforces.com/problemset/problem/716/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Crazy_Computer.cpp) |
-|    686A     | [Free Ice Cream](https://codeforces.com/problemset/problem/686/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Free_Ice_Cream.cpp) |
+|  707A     | [Brain's Photos](https://codeforces.com/problemset/problem/707/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Brain_s_Photos.cpp) |
+|  703A     | [Mishka and Game](https://codeforces.com/problemset/problem/703/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Game.cpp) |
 |    599A     | [Patrick and Shopping](https://codeforces.com/problemset/problem/599/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Patrick_and_Shopping.cpp) |
 |    490A     | [Team Olympiad](https://codeforces.com/problemset/problem/490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team_Olympiad.cpp) |
 |    448A     | [Rewards](https://codeforces.com/problemset/problem/448/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rewards.cpp) |
+|    432A     | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choosing_Teams.cpp) |
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
 |    151A     | [Soft Drinking](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soft_Drinking.cpp) |
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
