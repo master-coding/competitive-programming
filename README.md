@@ -36,6 +36,7 @@
 |    1542A     | [Odd Set](https://codeforces.com/problemset/problem/1542/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Odd_Set.cpp) |
 |    1542A     | [Odd Set](https://codeforces.com/problemset/problem/1542/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Odd_Set.cpp) |
 |    1541A     | [Odd Set](https://codeforces.com/problemset/problem/1541/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pretty_Permutations.cpp) |
+|    1527A     | [And Then There Were K](https://codeforces.com/problemset/problem/1527/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_And_There_Were_K.cpp) |
 |    1512A     | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Spy_Detected.cpp) |
 |    1490B     | [Balanced Remainders](https://codeforces.com/problemset/problem/1490/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Balanced_Remainders.cpp) |
 |    1490A     | [Dense Array](https://codeforces.com/problemset/problem/1490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dense_Array.cpp) |
@@ -43,6 +44,7 @@
 |    1481A     | [Space Navigation](https://codeforces.com/problemset/problem/1481/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Space_Navigation.cpp) |
 |    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
 |    1473A     | [Replacing Elements](https://codeforces.com/problemset/problem/1473/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Replacing_Elements.cpp) |
+|    1472B     | [Fair Division](https://codeforces.com/problemset/problem/1472/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fair_Division.cpp) |
 |    1466A     | [Bovine Dilemma](https://codeforces.com/problemset/problem/1466/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bovine_Dilemma.cpp) |
 |    1453A     | [Cancel The Trains](https://codeforces.com/problemset/problem/1453/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cancel_the_Trains.cpp) |
 |    1452C     | [Two Brackets](https://codeforces.com/problemset/problem/1452/C) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/C_Two_Brackets.cpp) |
@@ -62,6 +64,7 @@
 |    1304A     | [Two Rabbits](https://codeforces.com/problemset/problem/1304/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rabbits.cpp) |
 |    1294A     | [Collecting Coins](https://codeforces.com/problemset/problem/1294/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Collecting_Coins.cpp) |
 |    1207A     | [There Aret Two Types of Burgers](https://codeforces.com/problemset/problem/1207/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_There_Are_Two_Types_Of_Burgers.cpp) |
+|    1206A     | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choose_Two_Numbers.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
 |    1077A     | [Frog Jumping](https://codeforces.com/problemset/problem/1077/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Frog_Jumping.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
