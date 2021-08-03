@@ -41,11 +41,17 @@
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
-|    1301A     | [Three Strings](https://codeforces.com/problemset/problem/1301/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_Strings.cpp) |
-|    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
-|    1554A     | [Cherry](https://codeforces.com/problemset/problem/1554/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cherry.cpp) |
 |    1555A     | [PizzaForces](https://codeforces.com/problemset/problem/1555/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_PizzaForces.cpp) |
+|    1554A     | [Cherry](https://codeforces.com/problemset/problem/1554/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cherry.cpp) |
+|    1551A     | [Polycarp and Coins](https://codeforces.com/problemset/problem/1551/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_and_Coins.cpp) |
 |    1549A     | [Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gregor_and_Cryptography.cpp) |
+|    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
+|    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
+|    1445A     | [Array Rearrangment](https://codeforces.com/problemset/problem/1445/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Array_Rearragnment.cpp) |
+|    1443B     | [Yet Another Bookshelf](https://codeforces.com/problemset/problem/1443/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Yet_Another_Bookshelf.cpp) |
+|    1417A     | [Copy Paste](https://codeforces.com/problemset/problem/1417/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Copy_paste.cpp) |
+|    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
+|    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
 <!-- |    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) | -->
 
 ## LeetCode
