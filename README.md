@@ -24,21 +24,6 @@
 
 ## Codeforces
 
-<!-- | Problems                          | Difficulty | links                                                            | Solution                                                                                                                                             |
-| --------------------------------- | :--------: | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Night at the Museum               |    800     | [Problem link](https://codeforces.com/problemset/problem/731/A)  | [Night at the Museum](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Night_at_the_Museum.cpp "Night_at_the_Museum") |
-| Juggling letters                  |    800     | [Problem link](https://codeforces.com/problemset/problem/1397/A) |                                                                                                                                                      |
-| Restore the Permutation by Merger |    800     | [Problem link](https://codeforces.com/contest/1385/problem/B)    |                                                                                                                                                      |
-| Arrival of the General            |    800     | [Problem link](https://codeforces.com/contest/144/problem/A)     |                                                                                                                                                      |
-| Two Rabbits                       |    800     | [Problem link](https://codeforces.com/contest/1304/problem/A)    |                                                                                                                                                      |
-| Common Subsequence                |    800     | [Problem link](https://codeforces.com/problemset/problem/1382/A) |                                                                                                                                                      |
-| Patrick and Shopping              |    800     | [Problem link](https://codeforces.com/problemset/problem/599/A)  |                                                                                                                                                      |
-| There Are Two Types of Burgers    |    800     | [Problem link](https://codeforces.com/problemset/problem/1207/A) |                                                                                                                                                      |
-| Two Brackets                      |    800     | [Problem link](https://codeforces.com/problemset/problem/1452/C) |                                                                                                                                                      |
-| Alexey and Train                  |    800     | [Problem link](https://codeforces.com/problemset/problem/1501/A) |                                                                                                                                                      |
-| Prison Break                      |    800     | [Problem link](https://codeforces.com/contest/1482/problem/A)    |                                                                                                                                                      |
-| Unique Number                     |    900     | [Problem link](https://codeforces.com/problemset/problem/1462/C) |                                                                                                                                                      | -->
-
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
 |    1555A     | [PizzaForces](https://codeforces.com/problemset/problem/1555/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_PizzaForces.cpp) |
@@ -49,7 +34,11 @@
 |    1547B     | [Alphabetical Strings](https://codeforces.com/problemset/problem/1547/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Alphabetical_Strings.cpp) |
 |    1547A     | [Shortest Path With Obstacle](https://codeforces.com/problemset/problem/1547/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Shortest_Path_with_Obstacle.cpp) |
 |    1542A     | [Odd Set](https://codeforces.com/problemset/problem/1542/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Odd_Set.cpp) |
-|    1501A     | [Alexey and Train](https://codeforces.com/problemset/problem/1501/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Alexey_and_Train.cpp) |
+|    1542A     | [Odd Set](https://codeforces.com/problemset/problem/1542/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Odd_Set.cpp) |
+|    1541A     | [Odd Set](https://codeforces.com/problemset/problem/1541/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pretty_Permutations.cpp) |
+|    1512A     | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Spy_Detected.cpp) |
+|    1490B     | [Balanced Remainders](https://codeforces.com/problemset/problem/1490/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Balanced_Remainders.cpp) |
+|    1490A     | [Dense Array](https://codeforces.com/problemset/problem/1490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dense_Array.cpp) |
 |    1482A     | [Prison Break](https://codeforces.com/problemset/problem/1482/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Prison_Break.cpp) |
 |    1481A     | [Space Navigation](https://codeforces.com/problemset/problem/1481/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Space_Navigation.cpp) |
 |    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
@@ -63,7 +52,15 @@
 |    1411B     | [Fair Numbers](https://codeforces.com/problemset/problem/1411/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Numbers.cpp) |
 |    1397A     | [Juggling Letters](https://codeforces.com/problemset/problem/1397/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Juggling_Letters.cpp) |
 |    1382A     | [C+=](https://codeforces.com/problemset/problem/1382/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_C_.cpp) |
+|    1385B     | [Restore the Permutation by Merger](https://codeforces.com/problemset/problem/1385/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Restore_the_Permutation_by_Merger.cpp) |
+|    1385A     | [Three Pairwise Maximums](https://codeforces.com/problemset/problem/1385/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_Pairwise_Maximums.cpp) |
 |    1368A     | [Common Subsequence](https://codeforces.com/problemset/problem/1368/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Common_Subsequence.cpp) |
+|    1367B     | [Even Array](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Array.cpp) |
+|    1360A     | [Minimal Square](https://codeforces.com/problemset/problem/1360/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minimal_Square.cpp) |
+|    1353B     | [Two Arrays And Swaps](https://codeforces.com/problemset/problem/1353/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Arrays_And_Swaps.cpp) |
+|    1353A     | [Most Unstable Array](https://codeforces.com/problemset/problem/1353/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Most_Unstable_Array.cpp) |
+|    1304A     | [Two Rabbits](https://codeforces.com/problemset/problem/1304/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rabbits.cpp) |
+|    1294A     | [Collecting Coins](https://codeforces.com/problemset/problem/1294/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Collecting_Coins.cpp) |
 |    1207A     | [There Aret Two Types of Burgers](https://codeforces.com/problemset/problem/1207/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_There_Are_Two_Types_Of_Burgers.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
 |    1077A     | [Frog Jumping](https://codeforces.com/problemset/problem/1077/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Frog_Jumping.cpp) |
@@ -73,9 +70,11 @@
 |    716A     | [Crazy Computer](https://codeforces.com/problemset/problem/716/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Crazy_Computer.cpp) |
 |    686A     | [Free Ice Cream](https://codeforces.com/problemset/problem/686/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Free_Ice_Cream.cpp) |
 |    599A     | [Patrick and Shopping](https://codeforces.com/problemset/problem/599/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Patrick_and_Shopping.cpp) |
+|    490A     | [Team Olympiad](https://codeforces.com/problemset/problem/490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team_Olympiad.cpp) |
 |    448A     | [Rewards](https://codeforces.com/problemset/problem/448/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rewards.cpp) |
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
-<!-- |    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) | -->
+|    151A     | [Soft Drinking](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soft_Drinking.cpp) |
+|    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
 
 ## LeetCode
 
