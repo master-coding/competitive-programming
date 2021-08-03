@@ -1,24 +1,10 @@
 ## Table of Contents
 
-- [Codechef](#codechef)
 - [Codeforces](#codeforces)
+- [Codechef](#codechef)
 - [LeetCode](#leetcode)
 - [HackerRank](#hackerrank)
   - [C++](#c)
-
-----
-
-## Codechef
-
-| Problem Code |                                   Problems                                  | Solution |
-| :----------: |  -------------------------------------------------------------------------  | :------: |
-|    KTTABLE   | [Kitchen Timetalbe](https://www.codechef.com/problems/KTTABLE) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Kitchen_Tiimetable.cpp) |
-|    LECANDY   | [Little Elephant and Candies](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) |
-|    MSNSADM1  | [Football](https://www.codechef.com/problems/MSNSADM1) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Football.cpp) |
-|    WATSCORE     | [that Is My Score](https://www.codechef.com/problems/WATSCORE) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/That_Is_My_Score.cpp) |
-<!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
-<!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
-<!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
 
 ----
 
@@ -86,6 +72,20 @@
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
 |    151A     | [Soft Drinking](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soft_Drinking.cpp) |
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
+
+## Codechef
+
+| Problem Code |                                   Problems                                  | Solution |
+| :----------: |  -------------------------------------------------------------------------  | :------: |
+|    KTTABLE   | [Kitchen Timetalbe](https://www.codechef.com/problems/KTTABLE) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Kitchen_Tiimetable.cpp) |
+|    LECANDY   | [Little Elephant and Candies](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) |
+|    MSNSADM1  | [Football](https://www.codechef.com/problems/MSNSADM1) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Football.cpp) |
+|    WATSCORE     | [That Is My Score](https://www.codechef.com/problems/WATSCORE) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/That_Is_My_Score.cpp) |
+<!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
+<!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
+<!-- |    LECANDY     | [](https://www.codechef.com/problems/LECANDY) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codechef/Little_Elephant_and_Candies.cpp) | -->
+
+----
 
 ## LeetCode
 
