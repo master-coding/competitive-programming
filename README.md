@@ -6,6 +6,9 @@
 - [HackerRank](#hackerrank)
   - [C++](#c)
 
+<br>
+my competitive programming coding solutions
+
 ----
 
 ## Codeforces
@@ -60,6 +63,7 @@
 |    1207A     | [There Aret Two Types of Burgers](https://codeforces.com/problemset/problem/1207/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_There_Are_Two_Types_Of_Burgers.cpp) |
 |    1206A     | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choose_Two_Numbers.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
+|    1092B     | [Frog Jumping](https://codeforces.com/problemset/problem/1092/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Teams_Forming.cpp) |
 |    1077A     | [Frog Jumping](https://codeforces.com/problemset/problem/1077/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Frog_Jumping.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
