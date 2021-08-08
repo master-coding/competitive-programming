@@ -43,6 +43,7 @@ my competitive programming coding solutions
 |    1452C     | [Two Brackets](https://codeforces.com/problemset/problem/1452/C) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/C_Two_Brackets.cpp) |
 |    1445A     | [Array Rearrangment](https://codeforces.com/problemset/problem/1445/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Array_Rearragnment.cpp) |
 |    1440A     | [Buy the String](https://codeforces.com/problemset/problem/1440/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Buy_the_String.cpp) |
+|    1436A     | [Reorder](https://codeforces.com/problemset/problem/1436/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Reorder.cpp) |
 |    1433B     | [Yet Another Bookshelf](https://codeforces.com/problemset/problem/1433/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Yet_Another_Bookshelf.cpp) |
 |    1417A     | [Copy Paste](https://codeforces.com/problemset/problem/1417/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Copy_paste.cpp) |
 |    1411B     | [Fair Numbers](https://codeforces.com/problemset/problem/1411/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Numbers.cpp) |
