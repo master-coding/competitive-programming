@@ -69,6 +69,7 @@ my competitive programming coding solutions
 |    1092B     | [Teams Forming](https://codeforces.com/problemset/problem/1092/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Teams_Forming.cpp) |
 |    1092A     | [Uniform String](https://codeforces.com/problemset/problem/1092/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Uniform_String.cpp) |
 |    1077A     | [Frog Jumping](https://codeforces.com/problemset/problem/1077/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Frog_Jumping.cpp) |
+|    1041A     | [Heist](https://codeforces.com/problemset/problem/1041/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Heist.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
 |    731A     | [Night at the Museum](https://codeforces.com/problemset/problem/731/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Night_at_the_Museum.cpp) |
