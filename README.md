@@ -39,6 +39,7 @@ my competitive programming coding solutions
 |    1472B     | [Fair Division](https://codeforces.com/problemset/problem/1472/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fair_Division.cpp) |
 |    1472A     | [Cards for Friends](https://codeforces.com/problemset/problem/1472/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_for_Friends.cpp) |
 |    1466A     | [Bovine Dilemma](https://codeforces.com/problemset/problem/1466/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bovine_Dilemma.cpp) |
+|    1462A     | [Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Favorite_Sequence.cpp) |
 |    1453A     | [Cancel The Trains](https://codeforces.com/problemset/problem/1453/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cancel_the_Trains.cpp) |
 |    1452C     | [Two Brackets](https://codeforces.com/problemset/problem/1452/C) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/C_Two_Brackets.cpp) |
 |    1445A     | [Array Rearrangment](https://codeforces.com/problemset/problem/1445/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Array_Rearragnment.cpp) |
