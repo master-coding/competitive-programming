@@ -64,6 +64,7 @@ my competitive programming coding solutions
 |    1307A     | [Cow and Haybales](https://codeforces.com/problemset/problem/1307/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cow_and_Haybales.cpp) |
 |    1303A     | [Erasing Zeroes](https://codeforces.com/problemset/problem/1303/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Erasing_Zeroes.cpp) |
 |    1294A     | [Collecting Coins](https://codeforces.com/problemset/problem/1294/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Collecting_Coins.cpp) |
+|    1287A     | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Angry_Students.cpp) |
 |    1223A     | [CME](https://codeforces.com/problemset/problem/1223/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_CME.cpp) |
 |    1207A     | [There Are Two Types of Burgers](https://codeforces.com/problemset/problem/1207/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_There_Are_Two_Types_Of_Burgers.cpp) |
 |    1206A     | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choose_Two_Numbers.cpp) |
