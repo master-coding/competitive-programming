@@ -19,7 +19,7 @@ my competitive programming coding solutions
 |    1554A     | [Cherry](https://codeforces.com/problemset/problem/1554/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cherry.cpp) |
 |    1553A     | [Digits Sum](https://codeforces.com/problemset/problem/1553/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Digits_Sum.cpp) |
 |    1551A     | [Polycarp and Coins](https://codeforces.com/problemset/problem/1551/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_and_Coins.cpp) |
-|    1549A     | [Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gregor_and_Cryptography.cpp) |
+<!-- |    1549A     | [Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gregor_and_Cryptography.cpp) | -->
 |    1549A     | [Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gregor_and_Cryptography.cpp) |
 |    1547B     | [Alphabetical Strings](https://codeforces.com/problemset/problem/1547/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Alphabetical_Strings.cpp) |
 |    1547A     | [Shortest Path With Obstacle](https://codeforces.com/problemset/problem/1547/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Shortest_Path_with_Obstacle.cpp) |
@@ -45,6 +45,7 @@ my competitive programming coding solutions
 |    1440A     | [Buy the String](https://codeforces.com/problemset/problem/1440/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Buy_the_String.cpp) |
 |    1436A     | [Reorder](https://codeforces.com/problemset/problem/1436/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Reorder.cpp) |
 |    1433B     | [Yet Another Bookshelf](https://codeforces.com/problemset/problem/1433/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Yet_Another_Bookshelf.cpp) |
+|    1426A     | [Floor Number](https://codeforces.com/problemset/problem/1426/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Floor_Number.cpp) |
 |    1417A     | [Copy Paste](https://codeforces.com/problemset/problem/1417/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Copy_paste.cpp) |
 |    1411B     | [Fair Numbers](https://codeforces.com/problemset/problem/1411/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Numbers.cpp) |
 |    1399B     | [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gifts_Fixing.cpp) |
