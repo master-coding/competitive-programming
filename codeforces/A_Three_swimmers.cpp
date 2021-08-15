@@ -8,7 +8,6 @@ using namespace std;
 #define nl '\n'
 #define newline cout << '\n'
 #define ll long long int
-
 #define vi vector <int>
 #define pii pair <int, int>
 #define pb push_back
