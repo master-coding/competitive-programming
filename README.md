@@ -47,6 +47,7 @@ my competitive programming coding solutions
 |    1436A     | [Reorder](https://codeforces.com/problemset/problem/1436/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Reorder.cpp) |
 |    1433B     | [Yet Another Bookshelf](https://codeforces.com/problemset/problem/1433/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Yet_Another_Bookshelf.cpp) |
 |    1426A     | [Floor Number](https://codeforces.com/problemset/problem/1426/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Floor_Number.cpp) |
+|    1422A     | [Fence](https://codeforces.com/problemset/problem/1422/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fence.cpp) |
 |    1417A     | [Copy Paste](https://codeforces.com/problemset/problem/1417/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Copy_paste.cpp) |
 |    1411B     | [Fair Numbers](https://codeforces.com/problemset/problem/1411/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Numbers.cpp) |
 |    1399B     | [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gifts_Fixing.cpp) |
