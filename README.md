@@ -15,7 +15,8 @@ my competitive programming coding solutions
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
-|    1560A     | [Dislike of Threes](https://codeforces.com/problemset/problem/1605/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dislike_of_Threes.cpp) |
+|    1560B     | [Who's Opposite?](https://codeforces.com/problemset/problem/1560/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Who_s_Opposite.cpp) |
+|    1560A     | [Dislike of Threes](https://codeforces.com/problemset/problem/1560/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dislike_of_Threes.cpp) |
 |    1555A     | [PizzaForces](https://codeforces.com/problemset/problem/1555/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_PizzaForces.cpp) |
 |    1554A     | [Cherry](https://codeforces.com/problemset/problem/1554/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cherry.cpp) |
 |    1553A     | [Digits Sum](https://codeforces.com/problemset/problem/1553/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Digits_Sum.cpp) |
