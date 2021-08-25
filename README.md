@@ -23,6 +23,7 @@ my competitive programming coding solutions
 |    1553A     | [Digits Sum](https://codeforces.com/problemset/problem/1553/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Digits_Sum.cpp) |
 |    1551B!     | [Wonderful Coloring 1](https://codeforces.com/problemset/problem/1551/B1) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B1_Wonderful_Coloring_1.cpp) |
 |    1551A     | [Polycarp and Coins](https://codeforces.com/problemset/problem/1551/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_and_Coins.cpp) |
+|    1550A     | [Find The Array](https://codeforces.com/problemset/problem/1550/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Find_The_Array.cpp) |
 |    1549A     | [Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gregor_and_Cryptography.cpp) |
 |    1547B     | [Alphabetical Strings](https://codeforces.com/problemset/problem/1547/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Alphabetical_Strings.cpp) |
 |    1547A     | [Shortest Path With Obstacle](https://codeforces.com/problemset/problem/1547/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Shortest_Path_with_Obstacle.cpp) |
