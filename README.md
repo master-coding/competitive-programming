@@ -58,6 +58,7 @@ my competitive programming coding solutions
 |    1411B     | [Fair Numbers](https://codeforces.com/problemset/problem/1411/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Numbers.cpp) |
 |    1399B     | [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gifts_Fixing.cpp) |
 |    1397A     | [Juggling Letters](https://codeforces.com/problemset/problem/1397/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Juggling_Letters.cpp) |
+|    1392A     | [Omkar and Password](https://codeforces.com/problemset/problem/1392/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omakar_and_Password.cpp) |
 |    1382A     | [C+=](https://codeforces.com/problemset/problem/1382/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_C_.cpp) |
 |    1385B     | [Restore the Permutation by Merger](https://codeforces.com/problemset/problem/1385/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Restore_the_Permutation_by_Merger.cpp) |
 |    1385A     | [Three Pairwise Maximums](https://codeforces.com/problemset/problem/1385/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_Pairwise_Maximums.cpp) |
