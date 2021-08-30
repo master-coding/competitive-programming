@@ -34,6 +34,7 @@ my competitive programming coding solutions
 |    1515A     | [Phoenix and Gold](https://codeforces.com/problemset/problem/1515/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Gold.cpp) |
 |    1512A     | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Spy_Detected.cpp) |
 |    1511A     | [Review Site](https://codeforces.com/problemset/problem/1511/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Review_Site.cpp) |
+|    1497A     | [Meximization](https://codeforces.com/problemset/problem/1497/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Meximization.cpp) |
 |    1492A     | [Three swimmers](https://codeforces.com/problemset/problem/1492/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_swimmers.cpp) |
 |    1490B     | [Balanced Remainders](https://codeforces.com/problemset/problem/1490/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Balanced_Remainders.cpp) |
 |    1490A     | [Dense Array](https://codeforces.com/problemset/problem/1490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dense_Array.cpp) |
