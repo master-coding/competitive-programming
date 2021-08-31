@@ -70,8 +70,9 @@ my competitive programming coding solutions
 |    1353B     | [Two Arrays And Swaps](https://codeforces.com/problemset/problem/1353/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Arrays_And_Swaps.cpp) |
 |    1353A     | [Most Unstable Array](https://codeforces.com/problemset/problem/1353/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Most_Unstable_Array.cpp) |
 |    1348A     | [Phoenix and Balance](https://codeforces.com/problemset/problem/1348/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Balance.cpp) |
-|    1304A     | [Two Rabbits](https://codeforces.com/problemset/problem/1304/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rabbits.cpp) |
+|    1316A     | [Grade Allocation](https://codeforces.com/problemset/problem/1316/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Grade_Allocation.cpp) |
 |    1311A     | [Add Odd or Subract Even](https://codeforces.com/problemset/problem/1311/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Add_Odd_or_Subtract_Even.cpp) |
+|    1304A     | [Two Rabbits](https://codeforces.com/problemset/problem/1304/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rabbits.cpp) |
 |    1307A     | [Cow and Haybales](https://codeforces.com/problemset/problem/1307/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cow_and_Haybales.cpp) |
 |    1303A     | [Erasing Zeroes](https://codeforces.com/problemset/problem/1303/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Erasing_Zeroes.cpp) |
 |    1294A     | [Collecting Coins](https://codeforces.com/problemset/problem/1294/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Collecting_Coins.cpp) |
