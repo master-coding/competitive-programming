@@ -49,6 +49,7 @@ my competitive programming coding solutions
 |    1462A     | [Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Favorite_Sequence.cpp) |
 |    1453A     | [Cancel The Trains](https://codeforces.com/problemset/problem/1453/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cancel_the_Trains.cpp) |
 |    1452A     | [Robot Program](https://codeforces.com/problemset/problem/1452/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Robot_Program.cpp) |
+|    1451A     | [Subtract or Divide](https://codeforces.com/problemset/problem/1451/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Subtract_or_Divide.cpp) |
 |    1452C     | [Two Brackets](https://codeforces.com/problemset/problem/1452/C) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/C_Two_Brackets.cpp) |
 |    1445A     | [Array Rearrangment](https://codeforces.com/problemset/problem/1445/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Array_Rearragnment.cpp) |
 |    1440A     | [Buy the String](https://codeforces.com/problemset/problem/1440/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Buy_the_String.cpp) |
