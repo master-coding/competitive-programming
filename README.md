@@ -91,6 +91,7 @@ my competitive programming coding solutions
 |    1092A     | [Uniform String](https://codeforces.com/problemset/problem/1092/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Uniform_String.cpp) |
 |    1077A     | [Frog Jumping](https://codeforces.com/problemset/problem/1077/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Frog_Jumping.cpp) |
 |    1041A     | [Heist](https://codeforces.com/problemset/problem/1041/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Heist.cpp) |
+|    1005A     | [Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tanya_and_Stairways.cpp) |
 |    1003A     | [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_s_Pockets.cpp) |
 |    999A     | [Mishka and Contest](https://codeforces.com/problemset/problem/999/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Contest.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
