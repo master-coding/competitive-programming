@@ -66,6 +66,7 @@ my competitive programming coding solutions
 |    1382A     | [C+=](https://codeforces.com/problemset/problem/1382/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_C_.cpp) |
 |    1385B     | [Restore the Permutation by Merger](https://codeforces.com/problemset/problem/1385/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Restore_the_Permutation_by_Merger.cpp) |
 |    1385A     | [Three Pairwise Maximums](https://codeforces.com/problemset/problem/1385/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_Pairwise_Maximums.cpp) |
+|    1372A     | [Omkar and Completion](https://codeforces.com/problemset/problem/1372/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omkar_and_Completion.cpp) |
 |    1368A     | [Common Subsequence](https://codeforces.com/problemset/problem/1368/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Common_Subsequence.cpp) |
 |    1367B     | [Even Array](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Array.cpp) |
 |    1360A     | [Minimal Square](https://codeforces.com/problemset/problem/1360/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minimal_Square.cpp) |
