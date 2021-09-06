@@ -15,6 +15,7 @@ my competitive programming coding solutions
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
+|    1567A     | [Domino Disaster](https://codeforces.com/problemset/problem/1567/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Domino_Disaster.cpp) |
 |    1560B     | [Who's Opposite?](https://codeforces.com/problemset/problem/1560/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Who_s_Opposite_.cpp) |
 |    1560A     | [Dislike of Threes](https://codeforces.com/problemset/problem/1560/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dislike_of_Threes.cpp) |
 |    1559A     | [Mocha and Math](https://codeforces.com/problemset/problem/1559/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mocha_and_Math.cpp) |
