@@ -90,6 +90,7 @@ my competitive programming coding solutions
 |    1118A     | [Water Buying](https://codeforces.com/problemset/problem/1118/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Water_Buying.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
 |    1097A     | [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gennady_and_a_Card_Game.cpp) |
+|    1095A     | [Repeating Cipher](https://codeforces.com/problemset/problem/1095/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Repeating_Cipher.cpp) |
 |    1092B     | [Teams Forming](https://codeforces.com/problemset/problem/1092/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Teams_Forming.cpp) |
 |    1092A     | [Uniform String](https://codeforces.com/problemset/problem/1092/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Uniform_String.cpp) |
 |    1077A     | [Frog Jumping](https://codeforces.com/problemset/problem/1077/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Frog_Jumping.cpp) |
