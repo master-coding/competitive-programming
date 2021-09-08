@@ -108,6 +108,7 @@ my competitive programming coding solutions
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
 |    448A     | [Rewards](https://codeforces.com/problemset/problem/448/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rewards.cpp) |
 |    432A     | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choosing_Teams.cpp) |
+|    381A     | [Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sereja_and_Dima.cpp) |
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
 |    151A     | [Soft Drinking](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soft_Drinking.cpp) |
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
