@@ -99,6 +99,7 @@ my competitive programming coding solutions
 |    1003A     | [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_s_Pockets.cpp) |
 |    999A     | [Mishka and Contest](https://codeforces.com/problemset/problem/999/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Contest.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
+|    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
 |    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
 |    731A     | [Night at the Museum](https://codeforces.com/problemset/problem/731/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Night_at_the_Museum.cpp) |
 |    716A     | [Crazy Computer](https://codeforces.com/problemset/problem/716/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Crazy_Computer.cpp) |
