@@ -88,6 +88,7 @@ my competitive programming coding solutions
 |    1206A     | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choose_Two_Numbers.cpp) |
 |    1183A     | [Nearest Interesting Number](https://codeforces.com/problemset/problem/1183/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearest_Interesting_Number.cpp) |
 |    1118A     | [Water Buying](https://codeforces.com/problemset/problem/1118/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Water_Buying.cpp) |
+|    1146A     | [Love "A"](https://codeforces.com/problemset/problem/1146/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_A.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
 |    1097A     | [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gennady_and_a_Card_Game.cpp) |
 |    1095A     | [Repeating Cipher](https://codeforces.com/problemset/problem/1095/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Repeating_Cipher.cpp) |
