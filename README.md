@@ -45,6 +45,7 @@ my competitive programming coding solutions
 |    1473A     | [Replacing Elements](https://codeforces.com/problemset/problem/1473/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Replacing_Elements.cpp) |
 |    1472B     | [Fair Division](https://codeforces.com/problemset/problem/1472/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fair_Division.cpp) |
 |    1472A     | [Cards for Friends](https://codeforces.com/problemset/problem/1472/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_for_Friends.cpp) |
+|    1471A     | [Strange Partition](https://codeforces.com/problemset/problem/1471/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Strange_Partition.cpp) |
 |    1466B     | [Last minute enhancements](https://codeforces.com/problemset/problem/1466/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Last_minute_enhancements.cpp) |
 |    1466A     | [Bovine Dilemma](https://codeforces.com/problemset/problem/1466/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bovine_Dilemma.cpp) |
 |    1462A     | [Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Favorite_Sequence.cpp) |
