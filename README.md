@@ -83,6 +83,7 @@ my competitive programming coding solutions
 |    1303A     | [Erasing Zeroes](https://codeforces.com/problemset/problem/1303/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Erasing_Zeroes.cpp) |
 |    1294A     | [Collecting Coins](https://codeforces.com/problemset/problem/1294/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Collecting_Coins.cpp) |
 |    1287A     | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Angry_Students.cpp) |
+|    1284A     | [New Year and Naming](https://codeforces.com/problemset/problem/1284/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_New_Year_and_Naming.cpp) |
 |    1257A     | [Two Rival Students](https://codeforces.com/problemset/problem/1257/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rival_Students.cpp) |
 |    1223A     | [CME](https://codeforces.com/problemset/problem/1223/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_CME.cpp) |
 |    1220A     | [Cards](https://codeforces.com/problemset/problem/1220/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards.cpp) |
