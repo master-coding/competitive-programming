@@ -15,6 +15,7 @@ my competitive programming coding solutions
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
+|    1573A     | [Countdown](https://codeforces.com/problemset/problem/1573/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Countdown.cpp) |
 |    1569A     | [Balanced Substring](https://codeforces.com/problemset/problem/1569/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Balanced_String.cpp) |
 |    1567A     | [Domino Disaster](https://codeforces.com/problemset/problem/1567/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Domino_Disaster.cpp) |
 |    1560B     | [Who's Opposite?](https://codeforces.com/problemset/problem/1560/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Who_s_Opposite_.cpp) |
