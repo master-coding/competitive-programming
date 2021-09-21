@@ -100,6 +100,7 @@ my competitive programming coding solutions
 |    1095A     | [Repeating Cipher](https://codeforces.com/problemset/problem/1095/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Repeating_Cipher.cpp) |
 |    1092B     | [Teams Forming](https://codeforces.com/problemset/problem/1092/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Teams_Forming.cpp) |
 |    1092A     | [Uniform String](https://codeforces.com/problemset/problem/1092/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Uniform_String.cpp) |
+|    1091A     | [New Year and the Christmas Ornament](https://codeforces.com/problemset/problem/1091/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_New_Year_and_the_Christmas_Ornament.cpp) |
 |    1077A     | [Frog Jumping](https://codeforces.com/problemset/problem/1077/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Frog_Jumping.cpp) |
 |    1061A     | [Coins](https://codeforces.com/problemset/problem/1061/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Coins.cpp) |
 |    1041A     | [Heist](https://codeforces.com/problemset/problem/1041/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Heist.cpp) |
