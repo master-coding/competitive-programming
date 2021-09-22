@@ -52,6 +52,7 @@ my competitive programming coding solutions
 |    1466B     | [Last minute enhancements](https://codeforces.com/problemset/problem/1466/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Last_minute_enhancements.cpp) |
 |    1466A     | [Bovine Dilemma](https://codeforces.com/problemset/problem/1466/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bovine_Dilemma.cpp) |
 |    1462A     | [Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Favorite_Sequence.cpp) |
+|    1461A     | [String Generation](https://codeforces.com/problemset/problem/1461/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_String_Generation.cpp) |
 |    1453A     | [Cancel The Trains](https://codeforces.com/problemset/problem/1453/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cancel_the_Trains.cpp) |
 |    1452A     | [Robot Program](https://codeforces.com/problemset/problem/1452/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Robot_Program.cpp) |
 |    1451A     | [Subtract or Divide](https://codeforces.com/problemset/problem/1451/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Subtract_or_Divide.cpp) |
