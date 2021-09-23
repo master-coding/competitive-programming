@@ -66,6 +66,7 @@ my competitive programming coding solutions
 |    1422A     | [Fence](https://codeforces.com/problemset/problem/1422/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fence.cpp) |
 |    1417A     | [Copy Paste](https://codeforces.com/problemset/problem/1417/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Copy_paste.cpp) |
 |    1411B     | [Fair Numbers](https://codeforces.com/problemset/problem/1411/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Numbers.cpp) |
+|    1400A     | [String Similarity](https://codeforces.com/problemset/problem/1400/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_String_Similarity.cpp) |
 |    1399B     | [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gifts_Fixing.cpp) |
 |    1397A     | [Juggling Letters](https://codeforces.com/problemset/problem/1397/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Juggling_Letters.cpp) |
 |    1392A     | [Omkar and Password](https://codeforces.com/problemset/problem/1392/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omakar_and_Password.cpp) |
