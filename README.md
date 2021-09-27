@@ -114,7 +114,7 @@ my competitive programming coding solutions
 |    1003A     | [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_s_Pockets.cpp) |
 |    999A     | [Mishka and Contest](https://codeforces.com/problemset/problem/999/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Contest.cpp) |
 |    988A     | [Diverse Team](https://codeforces.com/problemset/problem/988/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Diverse_Team.cpp) |
-|    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_Company.cpp) |
+|    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_CompanyS.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
 |    764A     | [Compote](https://codeforces.com/problemset/problem/764/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Compote.cpp) |
