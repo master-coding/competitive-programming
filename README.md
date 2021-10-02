@@ -122,6 +122,7 @@ my competitive programming coding solutions
 |    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_CompanyS.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
+|    832A     | [Shasha and Sticks](https://codeforces.com/problemset/problem/832/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sasha_and_Sticks.cpp) |
 |    764A     | [Compote](https://codeforces.com/problemset/problem/764/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Compote.cpp) |
 |    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
 |    731A     | [Night at the Museum](https://codeforces.com/problemset/problem/731/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Night_at_the_Museum.cpp) |
