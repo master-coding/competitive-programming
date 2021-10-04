@@ -80,6 +80,7 @@ my competitive programming coding solutions
 |    1360A     | [Minimal Square](https://codeforces.com/problemset/problem/1360/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minimal_Square.cpp) |
 |    1353B     | [Two Arrays And Swaps](https://codeforces.com/problemset/problem/1353/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Arrays_And_Swaps.cpp) |
 |    1353A     | [Most Unstable Array](https://codeforces.com/problemset/problem/1353/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Most_Unstable_Array.cpp) |
+|    1351A     | [A+B (Trial Problem)](https://codeforces.com/problemset/problem/1351/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_A_B_Trial_Problem_.cpp) |
 |    1348A     | [Phoenix and Balance](https://codeforces.com/problemset/problem/1348/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Balance.cpp) |
 |    1345A     | [Puzzle Pieces](https://codeforces.com/problemset/problem/1345/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Puzzle_Pieces.cpp) |
 |    1325A     | [EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_EhAb_AnD_gCd.cpp) |
@@ -106,6 +107,7 @@ my competitive programming coding solutions
 |    1146A     | [Love "A"](https://codeforces.com/problemset/problem/1146/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_A_.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
 |    1097A     | [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gennady_and_a_Card_Game.cpp) |
+|    1096A     | [Find Divisible](https://codeforces.com/problemset/problem/1096/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Find_Divisible.cpp) |
 |    1095A     | [Repeating Cipher](https://codeforces.com/problemset/problem/1095/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Repeating_Cipher.cpp) |
 |    1092B     | [Teams Forming](https://codeforces.com/problemset/problem/1092/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Teams_Forming.cpp) |
 |    1092A     | [Uniform String](https://codeforces.com/problemset/problem/1092/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Uniform_String.cpp) |
