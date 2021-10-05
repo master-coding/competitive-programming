@@ -45,6 +45,7 @@ my competitive programming coding solutions
 |    1515A     | [Phoenix and Gold](https://codeforces.com/problemset/problem/1515/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Gold.cpp) |
 |    1512A     | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Spy_Detected.cpp) |
 |    1511A     | [Review Site](https://codeforces.com/problemset/problem/1511/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Review_Site.cpp) |
+|    1509A     | [Average Height](https://codeforces.com/problemset/problem/1509/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Average_Height.cpp) |
 |    1498A     | [GCD Sum](https://codeforces.com/problemset/problem/1498/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_GCD_Sum.cpp) |
 |    1497A     | [Meximization](https://codeforces.com/problemset/problem/1497/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Meximization.cpp) |
 |    1496A     | [Split it!](https://codeforces.com/problemset/problem/1496/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Split_it_.cpp) |
