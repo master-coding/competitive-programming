@@ -38,6 +38,7 @@ my competitive programming coding solutions
 |    1538A     | [Stone Game](https://codeforces.com/problemset/problem/1538/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Stone_Game.cpp) |
 |    1537C     | [Challenging Cliffs](https://codeforces.com/problemset/problem/1537/C) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/C_Challenging_Cliffs.cpp) |
 |    1537B     | [Bad Boy](https://codeforces.com/problemset/problem/1537/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Bad_Boy.cpp) |
+|    1537A     | [Arithmetic Array](https://codeforces.com/problemset/problem/1537/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arithmetic_Array.cpp) |
 |    1536A     | [Omkar and Bad Story](https://codeforces.com/problemset/problem/1536/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omkar_and_Bad_Story.cpp) |
 |    1535B     | [Array Reodering](https://codeforces.com/problemset/problem/1535/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Array_Reodering.cpp) |
 |    1535A     | [Fair Playoff](https://codeforces.com/problemset/problem/1535/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fair_Playoff.cpp) |
