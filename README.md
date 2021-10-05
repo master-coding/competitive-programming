@@ -133,6 +133,7 @@ my competitive programming coding solutions
 |    703A     | [Mishka and Game](https://codeforces.com/problemset/problem/703/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Game.cpp) |
 |    701A     | [Cards](https://codeforces.com/problemset/problem/701/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_.cpp) |
 |    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
+|    546A     | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soldier_and_Bananas.cpp) |
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
 |    490A     | [Team Olympiad](https://codeforces.com/problemset/problem/490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team_Olympiad.cpp) |
 |    448A     | [Rewards](https://codeforces.com/problemset/problem/448/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rewards.cpp) |
