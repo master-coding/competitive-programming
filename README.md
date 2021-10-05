@@ -155,7 +155,7 @@ my competitive programming coding solutions
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
 |    490A     | [Team Olympiad](https://codeforces.com/problemset/problem/490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team_Olympiad.cpp) |
 |    486A     | [Calculating Function](https://codeforces.com/problemset/problem/486/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Calculating_Function.cpp) |
-|    469A     | [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_I Wanna Be the Guy.cpp) |
+|    469A     | [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_I_Wanna_Be_the_Guy.cpp) |
 |    467A     | [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_George_and_Accommodation.cpp) |
 |    448A     | [Rewards](https://codeforces.com/problemset/problem/448/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rewards.cpp) |
 |    443A     | [Anton and Letters](https://codeforces.com/problemset/problem/443/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Anton_and_Letters.cpp) |
