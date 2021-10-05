@@ -179,6 +179,7 @@ my competitive programming coding solutions
 |    200B     | [Drinks](https://codeforces.com/problemset/problem/200/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Drinks.cpp) |
 |    158A     | [Next Round](https://codeforces.com/problemset/problem/158/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Next_Round.cpp) |
 |    151A     | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soft_Drinking.cpp) |
+|    148A     | [Insomnia Cure](https://codeforces.com/problemset/problem/148/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Insomnia_Cure.cpp) |
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
 |    136A     | [Presents](https://codeforces.com/problemset/problem/136/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Presents.cpp) |
 |    116A     | [Tram](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tram.cpp) |
