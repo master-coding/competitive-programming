@@ -132,8 +132,9 @@ my competitive programming coding solutions
 |    707A     | [Brain's Photos](https://codeforces.com/problemset/problem/707/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Brain_s_Photos.cpp) |
 |    703A     | [Mishka and Game](https://codeforces.com/problemset/problem/703/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Game.cpp) |
 |    701A     | [Cards](https://codeforces.com/problemset/problem/701/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_.cpp) |
-|    490A     | [Team Olympiad](https://codeforces.com/problemset/problem/490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team_Olympiad.cpp) |
+|    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
+|    490A     | [Team Olympiad](https://codeforces.com/problemset/problem/490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team_Olympiad.cpp) |
 |    448A     | [Rewards](https://codeforces.com/problemset/problem/448/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rewards.cpp) |
 |    432A     | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choosing_Teams.cpp) |
 |    381A     | [Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sereja_and_Dima.cpp) |
