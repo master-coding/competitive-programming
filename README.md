@@ -168,6 +168,7 @@ my competitive programming coding solutions
 |    136A     | [Presents](https://codeforces.com/problemset/problem/136/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Presents.cpp) |
 |    116A     | [Tram](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tram.cpp) |
 |    112A     | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Petya_and_Strings.cpp) |
+|    110A     | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearly_Lucky_Number.cpp) |
 |    71A      | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Way_Too_Long_Words.cpp) |
 |    59A      | [Word](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word.cpp) |
 |    50A      | [Domino piling](https://codeforces.com/problemset/problem/50/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Domino_piling.cpp) |
