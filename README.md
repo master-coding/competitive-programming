@@ -147,6 +147,7 @@ my competitive programming coding solutions
 |    381A     | [Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sereja_and_Dima.cpp) |
 |    339A     | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Helpful_Maths.cpp) |
 |    330A     | [Cakeminator](https://codeforces.com/problemset/problem/330/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cakeminator.cpp) |
+|    282A     | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bit_.cpp) |
 |    281A     | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word_Capitalization.cpp) |
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
 |    236A     | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Boy_or_Girl.cpp) |
@@ -157,6 +158,7 @@ my competitive programming coding solutions
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
 |    136A     | [Presents](https://codeforces.com/problemset/problem/136/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Presents.cpp) |
 |    116A     | [Tram](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tram.cpp) |
+|    112A     | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Petya_and_Strings.cpp) |
 |    71A      | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Way_Too_Long_Words.cpp) |
 |    59A      | [Word](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word.cpp) |
 |    50A      | [Domino piling](https://codeforces.com/problemset/problem/50/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Domino_piling.cpp) |
