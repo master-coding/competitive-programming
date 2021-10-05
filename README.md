@@ -144,6 +144,7 @@ my competitive programming coding solutions
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
 |    236A     | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Boy_or_Girl.cpp) |
 |    231A     | [Team](https://codeforces.com/problemset/problem/231/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team.cpp) |
+|    200B     | [Drinks](https://codeforces.com/problemset/problem/200/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/Drinks.cpp) |
 |    158A     | [Next Round](https://codeforces.com/problemset/problem/158/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Next_Round.cpp) |
 |    151A     | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soft_Drinking.cpp) |
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
