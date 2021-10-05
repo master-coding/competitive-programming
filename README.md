@@ -91,7 +91,7 @@ my competitive programming coding solutions
 |    1399A     | [Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_Smallest.cpp) |
 |    1397A     | [Juggling Letters](https://codeforces.com/problemset/problem/1397/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Juggling_Letters.cpp) |
 |    1392A     | [Omkar and Password](https://codeforces.com/problemset/problem/1392/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omakar_and_Password.cpp) |
-|    1382A     | [C+=](https://codeforces.com/problemset/problem/1382/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_C_.cpp) |
+|    1382A     | [Common Subsequence](https://codeforces.com/problemset/problem/1382/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Common_Subsequence.cpp) |
 |    1385B     | [Restore the Permutation by Merger](https://codeforces.com/problemset/problem/1385/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Restore_the_Permutation_by_Merger.cpp) |
 |    1385A     | [Three Pairwise Maximums](https://codeforces.com/problemset/problem/1385/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_Pairwise_Maximums.cpp) |
 |    1374A     | [Required Remainder](https://codeforces.com/problemset/problem/1374/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Required_Remainder.cpp) |
@@ -176,7 +176,7 @@ my competitive programming coding solutions
 |    701A     | [Cards](https://codeforces.com/problemset/problem/701/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_.cpp) |
 |    677A     | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
 |    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
-|    599A     | [Patrick and Shoppingr](https://codeforces.com/problemset/problem/599/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Patrick_and_Shopping.cpp) |
+|    599A     | [Patrick and Shopping](https://codeforces.com/problemset/problem/599/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Patrick_and_Shopping.cpp) |
 |    581A     | [Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vasya_the_Hipster.cpp) |
 |    546A     | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soldier_and_Bananas.cpp) |
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
