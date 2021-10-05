@@ -43,6 +43,7 @@ my competitive programming coding solutions
 |    1535B     | [Array Reodering](https://codeforces.com/problemset/problem/1535/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Array_Reodering.cpp) |
 |    1535A     | [Fair Playoff](https://codeforces.com/problemset/problem/1535/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fair_Playoff.cpp) |
 |    1527A     | [And Then There Were K](https://codeforces.com/problemset/problem/1527/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_And_There_Were_K.cpp) |
+|    1526B     | [I Hate 1111](https://codeforces.com/problemset/problem/1526/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_I_Hate_1111.cpp) |
 |    1525A     | [Potion-making](https://codeforces.com/problemset/problem/1525/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Potion_making.cpp) |
 |    1526A     | [Mean Inequality](https://codeforces.com/problemset/problem/1526/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mean_Inequality.cpp) |
 |    1520A     | [Do Not Be Distracted!](https://codeforces.com/problemset/problem/1520/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Do_Not_Be_Distracted_.cpp) |
