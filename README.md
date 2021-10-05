@@ -103,7 +103,7 @@ my competitive programming coding solutions
 |    1367A     | [Short Substrings](https://codeforces.com/problemset/problem/1367/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Short_Substrings.cpp) |
 |    1360B     | [Honest Coach](https://codeforces.com/problemset/problem/1360/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Honest_Coach.cpp) |
 |    1360A     | [Minimal Square](https://codeforces.com/problemset/problem/1360/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minimal_Square.cpp) |
-|    1353B     | [Two Arrays And Swaps](https://codeforces.com/problemset/problem/1353/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Arrays_And_Swaps.cpp) |
+|    1353B     | [Two Arrays And Swaps](https://codeforces.com/problemset/problem/1353/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Two_Arrays_And_Swaps.cpp) |
 |    1353A     | [Most Unstable Array](https://codeforces.com/problemset/problem/1353/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Most_Unstable_Array.cpp) |
 |    1352A     | [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sum_of_Round_Numbers.cpp) |
 |    1351A     | [A+B (Trial Problem)](https://codeforces.com/problemset/problem/1351/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_A_B_Trial_Problem_.cpp) |
