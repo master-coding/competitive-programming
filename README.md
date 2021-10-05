@@ -163,6 +163,7 @@ my competitive programming coding solutions
 |    749A     | [Bachgold Problem](https://codeforces.com/problemset/problem/749/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bachgold_Problem.cpp) |
 |    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
 |    734A     | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Anton_and_Danik.cpp) |
+|    732A     | [Buy a Shovel](https://codeforces.com/problemset/problem/732/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Buy_a_Shovel.cpp) |
 |    731A     | [Night at the Museum](https://codeforces.com/problemset/problem/731/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Night_at_the_Museum.cpp) |
 |    723A     | [The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_The_New_Year_Meeting_Friends.cpp) |
 |    716A     | [Crazy Computer](https://codeforces.com/problemset/problem/716/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Crazy_Computer.cpp) |
