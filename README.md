@@ -141,6 +141,7 @@ my competitive programming coding solutions
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
 |    151A     | [Soft Drinking](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soft_Drinking.cpp) |
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
+|    71A      | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Way_Too_Long_Words.cpp) |
 |    4A       | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Watermelon.cpp) |
 
 ## Codechef
