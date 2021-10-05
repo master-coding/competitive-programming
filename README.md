@@ -49,7 +49,7 @@ my competitive programming coding solutions
 |    1520A     | [Do Not Be Distracted!](https://codeforces.com/problemset/problem/1520/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Do_Not_Be_Distracted_.cpp) |
 |    1519B     | [The Cake Is a Lie](https://codeforces.com/problemset/problem/1519/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_The_Cake_Is_a_Lie.cpp) |
 |    1515A     | [Phoenix and Gold](https://codeforces.com/problemset/problem/1515/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Gold.cpp) |
-|    1512A     | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Spy_Detected.cpp) |
+|    1512A     | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Spy_Detected_.cpp) |
 |    1511A     | [Review Site](https://codeforces.com/problemset/problem/1511/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Review_Site.cpp) |
 |    1509A     | [Average Height](https://codeforces.com/problemset/problem/1509/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Average_Height.cpp) |
 |    1498A     | [GCD Sum](https://codeforces.com/problemset/problem/1498/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_GCD_Sum.cpp) |
