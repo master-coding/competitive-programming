@@ -159,6 +159,7 @@ my competitive programming coding solutions
 |    116A     | [Tram](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tram.cpp) |
 |    71A      | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Way_Too_Long_Words.cpp) |
 |    59A      | [Word](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word.cpp) |
+|    50A      | [Domino piling](https://codeforces.com/problemset/problem/50/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Domino_piling.cpp) |
 |    41A      | [Translation](https://codeforces.com/problemset/problem/41/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Translation.cpp) |
 |    4A       | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Watermelon.cpp) |
 
