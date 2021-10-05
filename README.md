@@ -146,8 +146,9 @@ my competitive programming coding solutions
 |    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
 |    832A     | [Shasha and Sticks](https://codeforces.com/problemset/problem/832/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sasha_and_Sticks.cpp) |
 |    791A     | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bear_and_Big_Brother.cpp) |
-|    758A     | [Holiday Of Equality](https://codeforces.com/problemset/problem/758/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Holiday_Of_Equality.cpp) |
 |    764A     | [Compote](https://codeforces.com/problemset/problem/764/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Compote.cpp) |
+|    758A     | [Holiday Of Equality](https://codeforces.com/problemset/problem/758/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Holiday_Of_Equality.cpp) |
+|    749A     | [Bachgold Problem](https://codeforces.com/problemset/problem/749/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bachgold_Problem.cpp) |
 |    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
 |    734A     | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Anton_and_Danik.cpp) |
 |    731A     | [Night at the Museum](https://codeforces.com/problemset/problem/731/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Night_at_the_Museum.cpp) |
