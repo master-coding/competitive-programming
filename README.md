@@ -160,6 +160,7 @@ my competitive programming coding solutions
 |    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
 |    546A     | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soldier_and_Bananas.cpp) |
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
+|    509A     | [Maximum in Table](https://codeforces.com/problemset/problem/509/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Maximum_in_Table.cpp) |
 |    490A     | [Team Olympiad](https://codeforces.com/problemset/problem/490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team_Olympiad.cpp) |
 |    486A     | [Calculating Function](https://codeforces.com/problemset/problem/486/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Calculating_Function.cpp) |
 |    469A     | [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_I_Wanna_Be_the_Guy.cpp) |
