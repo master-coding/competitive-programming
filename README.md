@@ -149,6 +149,7 @@ my competitive programming coding solutions
 |    330A     | [Cakeminator](https://codeforces.com/problemset/problem/330/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cakeminator.cpp) |
 |    282A     | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bit_.cpp) |
 |    281A     | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word_Capitalization.cpp) |
+|    263A     | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Beautiful_Matrix.cpp) |
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
 |    236A     | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Boy_or_Girl.cpp) |
 |    231A     | [Team](https://codeforces.com/problemset/problem/231/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team.cpp) |
