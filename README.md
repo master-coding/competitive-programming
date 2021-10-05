@@ -146,6 +146,7 @@ my competitive programming coding solutions
 |    448A     | [Rewards](https://codeforces.com/problemset/problem/448/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rewards.cpp) |
 |    432A     | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choosing_Teams.cpp) |
 |    381A     | [Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sereja_and_Dima.cpp) |
+|    355A     | [Vanya and Fence](https://codeforces.com/problemset/problem/355/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
 |    339A     | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Helpful_Maths.cpp) |
 |    330A     | [Cakeminator](https://codeforces.com/problemset/problem/330/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cakeminator.cpp) |
 |    282A     | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bit_.cpp) |
