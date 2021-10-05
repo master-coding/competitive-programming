@@ -8,29 +8,21 @@ using namespace std;
 #define nl '\n'
 #define ll long long int
 
-int check(string s1, string s2) {
-    if(s1 > s2)
-        return 1;
-    else if (s1 < s2)
-        return -1;
-    else
-        return 0; 
-}
-int  main() {
+
+int main() {
     speedio;
-    int a[5][5];
-    rep(i, 0, 5) {
-        for (int j = 0; j < 5; j++) {
-            cin >> a[i][j];
-        }
+    int n;
+    cin >> n;
+    vector <char> v;
+    for (int i = 0; i < n; i++) {
+        char x;
+        cin >> x;
+        v.push_back(x);
     }
-    int x, y;
-    rep(i, 0, 5) {
-        for (int j = 0; j < 5; j++) {
-            if (a[i][j] == 1) {
-                x = i + 1; y = j + 1;
-            }
-        }
-    }
-    cout << abs(3-x) + abs(3-y) << nl;
+    ll count = 0;
+    for (int i = 1; i < v.size(); i++) {
+        if (v[i] == v[i-1])
+            count += 1;
+    } 
+    cout << count << nl;
 }
