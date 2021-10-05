@@ -69,6 +69,7 @@ my competitive programming coding solutions
 |    1469A     | [Regular Bracket Sequence](https://codeforces.com/problemset/problem/1469/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Regular_Bracket_Sequence.cpp) |
 |    1466B     | [Last minute enhancements](https://codeforces.com/problemset/problem/1466/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Last_minute_enhancements.cpp) |
 |    1466A     | [Bovine Dilemma](https://codeforces.com/problemset/problem/1466/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bovine_Dilemma.cpp) |
+|    1462C     | [Unique Number](https://codeforces.com/problemset/problem/1462/C) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/C_Unique_Number.cpp) |
 |    1462A     | [Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Favorite_Sequence.cpp) |
 |    1461A     | [String Generation](https://codeforces.com/problemset/problem/1461/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_String_Generation.cpp) |
 |    1453A     | [Cancel The Trains](https://codeforces.com/problemset/problem/1453/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cancel_the_Trains.cpp) |
