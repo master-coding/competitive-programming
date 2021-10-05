@@ -176,6 +176,7 @@ my competitive programming coding solutions
 |    701A     | [Cards](https://codeforces.com/problemset/problem/701/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_.cpp) |
 |    677A     | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
 |    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
+|    599A     | [Patrick and Shoppingr](https://codeforces.com/problemset/problem/599/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Patrick_and_Shopping.cpp) |
 |    581A     | [Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vasya_the_Hipster.cpp) |
 |    546A     | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soldier_and_Bananas.cpp) |
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
