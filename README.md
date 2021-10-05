@@ -169,6 +169,7 @@ my competitive programming coding solutions
 |    448A     | [Rewards](https://codeforces.com/problemset/problem/448/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rewards.cpp) |
 |    443A     | [Anton and Letters](https://codeforces.com/problemset/problem/443/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Anton_and_Letters.cpp) |
 |    432A     | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choosing_Teams.cpp) |
+|    431A     | [Black Square](https://codeforces.com/problemset/problem/431/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Black_Square.cpp) |
 |    381A     | [Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sereja_and_Dima.cpp) |
 |    355A     | [Vanya and Fence](https://codeforces.com/problemset/problem/355/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
 |    344A     | [Magnets](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Magnets.cpp) |
