@@ -102,6 +102,7 @@ my competitive programming coding solutions
 |    1360A     | [Minimal Square](https://codeforces.com/problemset/problem/1360/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minimal_Square.cpp) |
 |    1353B     | [Two Arrays And Swaps](https://codeforces.com/problemset/problem/1353/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Arrays_And_Swaps.cpp) |
 |    1353A     | [Most Unstable Array](https://codeforces.com/problemset/problem/1353/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Most_Unstable_Array.cpp) |
+|    1352A     | [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sum_of_Round_Numbers.cpp) |
 |    1351A     | [A+B (Trial Problem)](https://codeforces.com/problemset/problem/1351/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_A_B_Trial_Problem_.cpp) |
 |    1348A     | [Phoenix and Balance](https://codeforces.com/problemset/problem/1348/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Balance.cpp) |
 |    1345A     | [Puzzle Pieces](https://codeforces.com/problemset/problem/1345/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Puzzle_Pieces.cpp) |
