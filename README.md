@@ -34,6 +34,7 @@ my competitive programming coding solutions
 |    1542A     | [Odd Set](https://codeforces.com/problemset/problem/1542/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Odd_Set.cpp) |
 |    1541A     | [Pretty Permutations](https://codeforces.com/problemset/problem/1541/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pretty_Permutations.cpp) |
 |    1539B     | [Love Song](https://codeforces.com/problemset/problem/1539/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_Song.cpp) |
+|    1536A     | [Omkar and Bad Story](https://codeforces.com/problemset/problem/1536/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omkar_and_Bad_Story.cpp) |
 |    1535B     | [Array Reodering](https://codeforces.com/problemset/problem/1535/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Array_Reodering.cpp) |
 |    1535A     | [Fair Playoff](https://codeforces.com/problemset/problem/1535/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fair_Playoff.cpp) |
 |    1527A     | [And Then There Were K](https://codeforces.com/problemset/problem/1527/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_And_There_Were_K.cpp) |
