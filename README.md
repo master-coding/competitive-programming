@@ -99,6 +99,7 @@ my competitive programming coding solutions
 |    1372A     | [Omkar and Completion](https://codeforces.com/problemset/problem/1372/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omkar_and_Completion.cpp) |
 |    1368A     | [Common Subsequence](https://codeforces.com/problemset/problem/1368/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Common_Subsequence.cpp) |
 |    1367B     | [Even Array](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Array.cpp) |
+|    1367A     | [Short Substrings](https://codeforces.com/problemset/problem/1367/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Short_Substrings.cpp) |
 |    1360B     | [Honest Coach](https://codeforces.com/problemset/problem/1360/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Honest_Coach.cpp) |
 |    1360A     | [Minimal Square](https://codeforces.com/problemset/problem/1360/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minimal_Square.cpp) |
 |    1353B     | [Two Arrays And Swaps](https://codeforces.com/problemset/problem/1353/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Arrays_And_Swaps.cpp) |
