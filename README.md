@@ -146,12 +146,12 @@ my competitive programming coding solutions
 |    978B     | [File Name](https://codeforces.com/problemset/problem/978/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_File_Name.cpp) |
 |    978A     | [Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_Duplicates.cpp) |
 |    977A     | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Wrong_Subtraction.cpp) |
-|    791A     | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bear_and_Big_Brother.cpp) |
 |    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_CompanyS.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
 |    832A     | [Shasha and Sticks](https://codeforces.com/problemset/problem/832/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sasha_and_Sticks.cpp) |
 |    791A     | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bear_and_Big_Brother.cpp) |
+|    785A     | [Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Anton_and_Polyhedrons.cpp) |
 |    764A     | [Compote](https://codeforces.com/problemset/problem/764/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Compote.cpp) |
 |    758A     | [Holiday Of Equality](https://codeforces.com/problemset/problem/758/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Holiday_Of_Equality.cpp) |
 |    749A     | [Bachgold Problem](https://codeforces.com/problemset/problem/749/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bachgold_Problem.cpp) |
