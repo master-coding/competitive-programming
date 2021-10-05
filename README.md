@@ -130,6 +130,7 @@ my competitive programming coding solutions
 |    1200A     | [Hotelier](https://codeforces.com/problemset/problem/1200/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hotelier.cpp) |
 |    1183A     | [Nearest Interesting Number](https://codeforces.com/problemset/problem/1183/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearest_Interesting_Number.cpp) |
 |    1167A     | [Telephone Number](https://codeforces.com/problemset/problem/1167/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Telephone_Number.cpp) |
+|    1154A     | [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Restoring_Three_Numbers.cpp) |
 |    1118A     | [Water Buying](https://codeforces.com/problemset/problem/1118/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Water_Buying.cpp) |
 |    1146A     | [Love "A"](https://codeforces.com/problemset/problem/1146/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_A_.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
