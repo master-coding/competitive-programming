@@ -151,7 +151,8 @@ my competitive programming coding solutions
 |    330A     | [Cakeminator](https://codeforces.com/problemset/problem/330/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cakeminator.cpp) |
 |    282A     | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bit_.cpp) |
 |    281A     | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word_Capitalization.cpp) |
-|    266A     | [stones on the Table](https://codeforces.com/problemset/problem/266/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Stones_on_the_Table.cpp) |
+|    271A     | [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Beautiful_Year.cpp) |
+|    266A     | [Stones on the Table](https://codeforces.com/problemset/problem/266/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Stones_on_the_Table.cpp) |
 |    263A     | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Beautiful_Matrix.cpp) |
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
 |    236A     | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Boy_or_Girl.cpp) |
