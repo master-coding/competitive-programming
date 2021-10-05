@@ -142,6 +142,7 @@ my competitive programming coding solutions
 |    1005A     | [Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tanya_and_Stairways.cpp) |
 |    1003A     | [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_s_Pockets.cpp) |
 |    999A     | [Mishka and Contest](https://codeforces.com/problemset/problem/999/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Contest.cpp) |
+|    996A     | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hit_the_Lottery.cpp) |
 |    988A     | [Diverse Team](https://codeforces.com/problemset/problem/988/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Diverse_Team.cpp) |
 |    978B     | [File Name](https://codeforces.com/problemset/problem/978/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_File_Name.cpp) |
 |    978A     | [Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_Duplicates.cpp) |
