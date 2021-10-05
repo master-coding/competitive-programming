@@ -151,6 +151,7 @@ my competitive programming coding solutions
 |    705A     | [Hulk](https://codeforces.com/problemset/problem/705/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hulk.cpp) |
 |    703A     | [Mishka and Game](https://codeforces.com/problemset/problem/703/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Game.cpp) |
 |    701A     | [Cards](https://codeforces.com/problemset/problem/701/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_.cpp) |
+|    677A     | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
 |    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
 |    546A     | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soldier_and_Bananas.cpp) |
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
