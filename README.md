@@ -34,7 +34,7 @@ my competitive programming coding solutions
 |    1542A     | [Odd Set](https://codeforces.com/problemset/problem/1542/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Odd_Set.cpp) |
 |    1541A     | [Pretty Permutations](https://codeforces.com/problemset/problem/1541/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pretty_Permutations.cpp) |
 |    1539B     | [Love Song](https://codeforces.com/problemset/problem/1539/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_Song.cpp) |
-|    1538B     | [Friends and Candies](https://codeforces.com/problemset/problem/1538/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Friends_and_Candies.cpp) |
+|    1538B     | [Friends and Candies](https://codeforces.com/problemset/problem/1538/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Friends_and_Candies.cpp) |
 |    1538A     | [Stone Game](https://codeforces.com/problemset/problem/1538/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Stone_Game.cpp) |
 |    1536A     | [Omkar and Bad Story](https://codeforces.com/problemset/problem/1536/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omkar_and_Bad_Story.cpp) |
 |    1535B     | [Array Reodering](https://codeforces.com/problemset/problem/1535/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Array_Reodering.cpp) |
