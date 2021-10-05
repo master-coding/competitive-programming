@@ -200,7 +200,7 @@ my competitive programming coding solutions
 |    282A     | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bit_.cpp) |
 |    281A     | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word_Capitalization.cpp) |
 |    271A     | [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Beautiful_Year.cpp) |
-|    266B     | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Queue_at_the_School.cpp) |
+|    266B     | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Queue_at_the_School.cpp) |
 |    266A     | [Stones on the Table](https://codeforces.com/problemset/problem/266/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Stones_on_the_Table.cpp) |
 |    263A     | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Beautiful_Matrix.cpp) |
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
