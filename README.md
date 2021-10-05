@@ -25,7 +25,7 @@ my competitive programming coding solutions
 |    1555A     | [PizzaForces](https://codeforces.com/problemset/problem/1555/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_PizzaForces.cpp) |
 |    1554A     | [Cherry](https://codeforces.com/problemset/problem/1554/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cherry.cpp) |
 |    1553A     | [Digits Sum](https://codeforces.com/problemset/problem/1553/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Digits_Sum.cpp) |
-|    1551B!     | [Wonderful Coloring 1](https://codeforces.com/problemset/problem/1551/B1) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B1_Wonderful_Coloring_1.cpp) |
+|    1551B     | [Wonderful Coloring 1](https://codeforces.com/problemset/problem/1551/B1) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B1_Wonderful_Coloring_1.cpp) |
 |    1551A     | [Polycarp and Coins](https://codeforces.com/problemset/problem/1551/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_and_Coins.cpp) |
 |    1550A     | [Find The Array](https://codeforces.com/problemset/problem/1550/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Find_The_Array.cpp) |
 |    1549A     | [Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gregor_and_Cryptography.cpp) |
@@ -125,6 +125,7 @@ my competitive programming coding solutions
 |    988A     | [Diverse Team](https://codeforces.com/problemset/problem/988/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Diverse_Team.cpp) |
 |    978B     | [File Name](https://codeforces.com/problemset/problem/978/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_File_Name.cpp) |
 |    978A     | [Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_Duplicates.cpp) |
+|    791A     | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bear_and_Big_Brother.cpp) |
 |    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_CompanyS.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
