@@ -200,6 +200,7 @@ my competitive programming coding solutions
 |    228A     | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Is_your_horseshoe_on_the_other_hoof_.cpp) |
 |    200B     | [Drinks](https://codeforces.com/problemset/problem/200/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Drinks.cpp) |
 |    158A     | [Next Round](https://codeforces.com/problemset/problem/158/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Next_Round.cpp) |
+|    155A     | [I_love_%username%](https://codeforces.com/problemset/problem/155/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_I_love__username_.cpp) |
 |    151A     | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soft_Drinking.cpp) |
 |    148A     | [Insomnia Cure](https://codeforces.com/problemset/problem/148/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Insomnia_cure.cpp) |
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
