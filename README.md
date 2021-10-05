@@ -78,6 +78,7 @@ my competitive programming coding solutions
 |    1438A     | [Specific Tastes of Andre](https://codeforces.com/problemset/problem/1438/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Specific_Tastes_of_Andre.cpp) |
 |    1436A     | [Reorder](https://codeforces.com/problemset/problem/1436/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Reorder.cpp) |
 |    1433B     | [Yet Another Bookshelf](https://codeforces.com/problemset/problem/1433/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Yet_Another_Bookshelf.cpp) |
+|    1433A     | [Boring Apartments](https://codeforces.com/problemset/problem/1433/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Boring_Apartments.cpp) |
 |    1426A     | [Floor Number](https://codeforces.com/problemset/problem/1426/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Floor_Number.cpp) |
 |    1422A     | [Fence](https://codeforces.com/problemset/problem/1422/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fence.cpp) |
 |    1417A     | [Copy Paste](https://codeforces.com/problemset/problem/1417/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Copy_paste.cpp) |
