@@ -31,6 +31,7 @@ my competitive programming coding solutions
 |    1549A     | [Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gregor_and_Cryptography.cpp) |
 |    1547B     | [Alphabetical Strings](https://codeforces.com/problemset/problem/1547/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Alphabetical_Strings.cpp) |
 |    1547A     | [Shortest Path With Obstacle](https://codeforces.com/problemset/problem/1547/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Shortest_Path_with_Obstacle.cpp) |
+|    1543A     | [Exciting_Bets](https://codeforces.com/problemset/problem/1543/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Exciting_Bets.cpp) |
 |    1542A     | [Odd Set](https://codeforces.com/problemset/problem/1542/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Odd_Set.cpp) |
 |    1541A     | [Pretty Permutations](https://codeforces.com/problemset/problem/1541/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pretty_Permutations.cpp) |
 |    1539B     | [Love Song](https://codeforces.com/problemset/problem/1539/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_Song.cpp) |
