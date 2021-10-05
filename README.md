@@ -147,6 +147,7 @@ my competitive programming coding solutions
 |    731A     | [Night at the Museum](https://codeforces.com/problemset/problem/731/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Night_at_the_Museum.cpp) |
 |    716A     | [Crazy Computer](https://codeforces.com/problemset/problem/716/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Crazy_Computer.cpp) |
 |    707A     | [Brain's Photos](https://codeforces.com/problemset/problem/707/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Brain_s_Photos.cpp) |
+|    705A     | [Hulk](https://codeforces.com/problemset/problem/705/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hulk.cpp) |
 |    703A     | [Mishka and Game](https://codeforces.com/problemset/problem/703/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Game.cpp) |
 |    701A     | [Cards](https://codeforces.com/problemset/problem/701/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_.cpp) |
 |    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
