@@ -62,7 +62,7 @@ my competitive programming coding solutions
 |    1481A     | [Space Navigation](https://codeforces.com/problemset/problem/1481/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Space_Navigation.cpp) |
 |    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
 |    1473A     | [Replacing Elements](https://codeforces.com/problemset/problem/1473/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Replacing_Elements.cpp) |
-|    1472B     | [Fair Division](https://codeforces.com/problemset/problem/1472/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fair_Division.cpp) |
+|    1472B     | [Fair Division](https://codeforces.com/problemset/problem/1472/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Division.cpp) |
 |    1472A     | [Cards for Friends](https://codeforces.com/problemset/problem/1472/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_for_Friends.cpp) |
 |    1471A     | [Strange Partition](https://codeforces.com/problemset/problem/1471/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Strange_Partition.cpp) |
 |    1469A     | [Regular Bracket Sequence](https://codeforces.com/problemset/problem/1469/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Regular_Bracket_Sequence.cpp) |
