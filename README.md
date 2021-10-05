@@ -171,6 +171,7 @@ my competitive programming coding solutions
 |    546A     | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soldier_and_Bananas.cpp) |
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
 |    520A     | [Pangram](https://codeforces.com/problemset/problem/520/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pangram.cpp) |
+|    510A     | [Fox And Snake](https://codeforces.com/problemset/problem/510/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fox_And_Snake.cpp) |
 |    509A     | [Maximum in Table](https://codeforces.com/problemset/problem/509/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Maximum_in_Table.cpp) |
 |    490A     | [Team Olympiad](https://codeforces.com/problemset/problem/490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team_Olympiad.cpp) |
 |    486A     | [Calculating Function](https://codeforces.com/problemset/problem/486/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Calculating_Function.cpp) |
