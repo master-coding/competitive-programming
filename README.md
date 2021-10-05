@@ -47,6 +47,7 @@ my competitive programming coding solutions
 |    1511A     | [Review Site](https://codeforces.com/problemset/problem/1511/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Review_Site.cpp) |
 |    1498A     | [GCD Sum](https://codeforces.com/problemset/problem/1498/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_GCD_Sum.cpp) |
 |    1497A     | [Meximization](https://codeforces.com/problemset/problem/1497/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Meximization.cpp) |
+|    1496A     | [Split it!](https://codeforces.com/problemset/problem/1496/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Split_it_.cpp) |
 |    1492A     | [Three swimmers](https://codeforces.com/problemset/problem/1492/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_swimmers.cpp) |
 |    1490B     | [Balanced Remainders](https://codeforces.com/problemset/problem/1490/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Balanced_Remainders.cpp) |
 |    1490A     | [Dense Array](https://codeforces.com/problemset/problem/1490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dense_Array.cpp) |
@@ -154,6 +155,7 @@ my competitive programming coding solutions
 |    432A     | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choosing_Teams.cpp) |
 |    381A     | [Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sereja_and_Dima.cpp) |
 |    355A     | [Vanya and Fence](https://codeforces.com/problemset/problem/355/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
+|    344A     | [Magnets](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Magnets.cpp) |
 |    339A     | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Helpful_Maths.cpp) |
 |    330A     | [Cakeminator](https://codeforces.com/problemset/problem/330/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cakeminator.cpp) |
 |    282A     | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bit_.cpp) |
