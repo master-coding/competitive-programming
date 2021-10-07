@@ -128,6 +128,7 @@ my competitive programming coding solutions
 |    1269A     | [Equation](https://codeforces.com/problemset/problem/1269/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Equation.cpp) |
 |    1257A     | [Two Rival Students](https://codeforces.com/problemset/problem/1257/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rival_Students.cpp) |
 |    1230A     | [Dawid and Bags of Candies](https://codeforces.com/problemset/problem/1230/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dawid_and_Bags_of_Candies.cpp) |
+|    1228A     | [Distinct Digits](https://codeforces.com/problemset/problem/1228/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Distinct_Digits.cpp) |
 |    1223A     | [CME](https://codeforces.com/problemset/problem/1223/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_CME.cpp) |
 |    1220A     | [Cards](https://codeforces.com/problemset/problem/1220/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards.cpp) |
 |    1207A     | [There Are Two Types of Burgers](https://codeforces.com/problemset/problem/1207/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_There_Are_Two_Types_Of_Burgers.cpp) |
