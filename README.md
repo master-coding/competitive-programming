@@ -137,6 +137,7 @@ my competitive programming coding solutions
 |    1207A     | [There Are Two Types of Burgers](https://codeforces.com/problemset/problem/1207/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_There_Are_Two_Types_Of_Burgers.cpp) |
 |    1206A     | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choose_Two_Numbers.cpp) |
 |    1200A     | [Hotelier](https://codeforces.com/problemset/problem/1200/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hotelier.cpp) |
+|    1186A     | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vus_the_Cossack_and_a_Contest.cpp) |
 |    1183A     | [Nearest Interesting Number](https://codeforces.com/problemset/problem/1183/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearest_Interesting_Number.cpp) |
 |    1167A     | [Telephone Number](https://codeforces.com/problemset/problem/1167/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Telephone_Number.cpp) |
 |    1154A     | [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Restoring_Three_Numbers.cpp) |
