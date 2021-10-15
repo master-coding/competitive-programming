@@ -235,6 +235,7 @@ my competitive programming coding solutions
 |    59A      | [Word](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word.cpp) |
 |    50A      | [Domino piling](https://codeforces.com/problemset/problem/50/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Domino_piling.cpp) |
 |    41A      | [Translation](https://codeforces.com/problemset/problem/41/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Translation.cpp) |
+|    38A      | [Army](https://codeforces.com/problemset/problem/38/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Army.cpp) |
 |    4A       | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Watermelon.cpp) |
 
 ## Codechef
