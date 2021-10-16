@@ -15,6 +15,7 @@ my competitive programming coding solutions
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
+|    1579A     | [Casimir's String Solitaire](https://codeforces.com/problemset/problem/1579/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Casimir_s_String_Solitaire.cpp) |
 |    1573A     | [Countdown](https://codeforces.com/problemset/problem/1573/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Countdown.cpp) |
 |    1569A     | [Balanced Substring](https://codeforces.com/problemset/problem/1569/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Balanced_String.cpp) |
 |    1567A     | [Domino Disaster](https://codeforces.com/problemset/problem/1567/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Domino_Disaster.cpp) |
