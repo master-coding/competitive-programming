@@ -15,6 +15,7 @@ my competitive programming coding solutions
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
+|    1593A     | [Elections](https://codeforces.com/problemset/problem/1593/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elections.cpp) |
 |    1579A     | [Casimir's String Solitaire](https://codeforces.com/problemset/problem/1579/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Casimir_s_String_Solitaire.cpp) |
 |    1573A     | [Countdown](https://codeforces.com/problemset/problem/1573/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Countdown.cpp) |
 |    1569A     | [Balanced Substring](https://codeforces.com/problemset/problem/1569/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Balanced_String.cpp) |
@@ -129,6 +130,7 @@ my competitive programming coding solutions
 |    1283A     | [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minutes_Before_the_New_Year.cpp) |
 |    1269A     | [Equation](https://codeforces.com/problemset/problem/1269/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Equation.cpp) |
 |    1257A     | [Two Rival Students](https://codeforces.com/problemset/problem/1257/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rival_Students.cpp) |
+|    1249A     | [Yet Another Dividing into Teams](https://codeforces.com/problemset/problem/1249/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_Dividing_into_Teams.cpp) |
 |    1244A     | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pens_and_Pencils.cpp) |
 |    1234A     | [Equalize Prices Again](https://codeforces.com/problemset/problem/1234/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Equalize_Prices_Again.cpp) |
 |    1230A     | [Dawid and Bags of Candies](https://codeforces.com/problemset/problem/1230/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dawid_and_Bags_of_Candies.cpp) |
