@@ -31,9 +31,8 @@ int main() {
             count++;
             ans = max(ans, count);
         }
-        else {
+        else 
             count = 1;
-        }
     }
     cout << ans << nl;   
 }
