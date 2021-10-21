@@ -148,6 +148,7 @@ my competitive programming coding solutions
 |    1118A     | [Water Buying](https://codeforces.com/problemset/problem/1118/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Water_Buying.cpp) |
 |    1146A     | [Love "A"](https://codeforces.com/problemset/problem/1146/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_A_.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
+|    1104A     | [Splitting into digits](https://codeforces.com/problemset/problem/1104/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Splitting_into_digits.cpp) |
 |    1097A     | [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gennady_and_a_Card_Game.cpp) |
 |    1096A     | [Find Divisible](https://codeforces.com/problemset/problem/1096/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Find_Divisible.cpp) |
 |    1095A     | [Repeating Cipher](https://codeforces.com/problemset/problem/1095/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Repeating_Cipher.cpp) |
