@@ -237,6 +237,7 @@ my competitive programming coding solutions
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
 |    141A     | [Amusing Joke](https://codeforces.com/problemset/problem/141/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Amusing_Joke.cpp) |
 |    136A     | [Presents](https://codeforces.com/problemset/problem/136/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Presents.cpp) |
+|    119A     | [Epic Game](https://codeforces.com/problemset/problem/119/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Epic_Game.cpp) |
 |    116A     | [Tram](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tram.cpp) |
 |    112A     | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Petya_and_Strings.cpp) |
 |    110A     | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearly_Lucky_Number.cpp) |
