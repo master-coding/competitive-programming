@@ -131,6 +131,7 @@ my competitive programming coding solutions
 |    1284A     | [New Year and Naming](https://codeforces.com/problemset/problem/1284/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_New_Year_and_Naming.cpp) |
 |    1283A     | [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minutes_Before_the_New_Year.cpp) |
 |    1269A     | [Equation](https://codeforces.com/problemset/problem/1269/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Equation.cpp) |
+|    1255A     | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Changing_Volume.cpp) |
 |    1257A     | [Two Rival Students](https://codeforces.com/problemset/problem/1257/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rival_Students.cpp) |
 |    1249A     | [Yet Another Dividing into Teams](https://codeforces.com/problemset/problem/1249/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_Dividing_into_Teams.cpp) |
 |    1244A     | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pens_and_Pencils.cpp) |
