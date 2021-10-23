@@ -189,6 +189,7 @@ my competitive programming coding solutions
 |    731A     | [Night at the Museum](https://codeforces.com/problemset/problem/731/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Night_at_the_Museum.cpp) |
 |    723A     | [The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_The_New_Year_Meeting_Friends.cpp) |
 |    716A     | [Crazy Computer](https://codeforces.com/problemset/problem/716/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Crazy_Computer.cpp) |
+|    711A     | [Bus to Udayland](https://codeforces.com/problemset/problem/711/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bus_to_Udayland.cpp) |
 |    707A     | [Brain's Photos](https://codeforces.com/problemset/problem/707/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Brain_s_Photos.cpp) |
 |    705A     | [Hulk](https://codeforces.com/problemset/problem/705/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hulk.cpp) |
 |    703A     | [Mishka and Game](https://codeforces.com/problemset/problem/703/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Game.cpp) |
