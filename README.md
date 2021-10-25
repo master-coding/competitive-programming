@@ -97,6 +97,7 @@ my competitive programming coding solutions
 |    1400A     | [String Similarity](https://codeforces.com/problemset/problem/1400/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_String_Similarity.cpp) |
 |    1399B     | [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Gifts_Fixing.cpp) |
 |    1399A     | [Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_Smallest.cpp) |
+|    1398B     | [Substring Removal Game](https://codeforces.com/problemset/problem/1398/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Substring_Removal_Game.cpp) |
 |    1397A     | [Juggling Letters](https://codeforces.com/problemset/problem/1397/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Juggling_Letters.cpp) |
 |    1392A     | [Omkar and Password](https://codeforces.com/problemset/problem/1392/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omakar_and_Password.cpp) |
 |    1382A     | [Common Subsequence](https://codeforces.com/problemset/problem/1382/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Common_Subsequence.cpp) |
