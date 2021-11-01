@@ -208,6 +208,7 @@ my competitive programming coding solutions
 |    615A     | [Bulbs](https://codeforces.com/problemset/problem/615/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bulbs.cpp) |
 |    599A     | [Patrick and Shopping](https://codeforces.com/problemset/problem/599/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Patrick_and_Shopping.cpp) |
 |    581A     | [Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vasya_the_Hipster.cpp) |
+|    551A     | [GukiZ and Contest](https://codeforces.com/problemset/problem/551/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_GukiZ_and_Contest.cpp) |
 |    546A     | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soldier_and_Bananas.cpp) |
 |    540A     | [Combination Lock](https://codeforces.com/problemset/problem/540/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Combination_Lock.cpp) |
 |    520A     | [Pangram](https://codeforces.com/problemset/problem/520/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pangram.cpp) |
