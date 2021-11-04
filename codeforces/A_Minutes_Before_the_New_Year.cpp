@@ -24,6 +24,5 @@ int main() {
         int h, m;
         cin >> h >> m;
         cout << 1440 - 60 * h - m << nl;
-
     }   
 }
