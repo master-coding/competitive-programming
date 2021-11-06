@@ -140,6 +140,7 @@ my competitive programming coding solutions
 |    1257A     | [Two Rival Students](https://codeforces.com/problemset/problem/1257/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rival_Students.cpp) |
 |    1249A     | [Yet Another Dividing into Teams](https://codeforces.com/problemset/problem/1249/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_Dividing_into_Teams.cpp) |
 |    1244A     | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Pens_and_Pencils.cpp) |
+|    1243A     | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Maximum_Square.cpp) |
 |    1236A     | [Stones](https://codeforces.com/problemset/problem/1236/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Stones.cpp) |
 |    1234A     | [Equalize Prices Again](https://codeforces.com/problemset/problem/1234/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Equalize_Prices_Again.cpp) |
 |    1230A     | [Dawid and Bags of Candies](https://codeforces.com/problemset/problem/1230/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dawid_and_Bags_of_Candies.cpp) |
