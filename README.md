@@ -122,6 +122,7 @@ my competitive programming coding solutions
 |    1348A     | [Phoenix and Balance](https://codeforces.com/problemset/problem/1348/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Balance.cpp) |
 |    1345A     | [Puzzle Pieces](https://codeforces.com/problemset/problem/1345/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Puzzle_Pieces.cpp) |
 |    1343B     | [Balanced Array](https://codeforces.com/problemset/problem/1343/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Balanced_Array.cpp) |
+|    1339A     | [Even Substrings](https://codeforces.com/problemset/problem/1339/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Substrings.cpp) |
 |    1335A     | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Candies_and_Two_Sisters.cpp) |
 |    1328A     | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Divisibility_Problem.cpp) |
 |    1325A     | [EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_EhAb_AnD_gCd.cpp) |
