@@ -122,7 +122,6 @@ my competitive programming coding solutions
 |    1348A     | [Phoenix and Balance](https://codeforces.com/problemset/problem/1348/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Balance.cpp) |
 |    1345A     | [Puzzle Pieces](https://codeforces.com/problemset/problem/1345/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Puzzle_Pieces.cpp) |
 |    1343B     | [Balanced Array](https://codeforces.com/problemset/problem/1343/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Balanced_Array.cpp) |
-|    1339A     | [Even Substrings](https://codeforces.com/problemset/problem/1339/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Substrings.cpp) |
 |    1335A     | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Candies_and_Two_Sisters.cpp) |
 |    1328A     | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Divisibility_Problem.cpp) |
 |    1325A     | [EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_EhAb_AnD_gCd.cpp) |
@@ -152,6 +151,7 @@ my competitive programming coding solutions
 |    1206A     | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choose_Two_Numbers.cpp) |
 |    1200A     | [Hotelier](https://codeforces.com/problemset/problem/1200/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hotelier.cpp) |
 |    1194A     | [Remove a Progression](https://codeforces.com/problemset/problem/1194/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_a_Progression.cpp) |
+|    1139A     | [Even Substrings](https://codeforces.com/problemset/problem/1139/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Substrings.cpp) |
 |    1186A     | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vus_the_Cossack_and_a_Contest.cpp) |
 |    1183A     | [Nearest Interesting Number](https://codeforces.com/problemset/problem/1183/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearest_Interesting_Number.cpp) |
 |    1173A     | [Nauuo and Votes](https://codeforces.com/problemset/problem/1173/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nauuo_and_Votes.cpp) |
