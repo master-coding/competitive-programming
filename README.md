@@ -136,6 +136,7 @@ my competitive programming coding solutions
 |    1285A     | [Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mezo_Playing_Zoma.cpp) |
 |    1284A     | [New Year and Naming](https://codeforces.com/problemset/problem/1284/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_New_Year_and_Naming.cpp) |
 |    1283A     | [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Minutes_Before_the_New_Year.cpp) |
+|    1271A     | [Suits](https://codeforces.com/problemset/problem/1271/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Suits.cpp) |
 |    1269A     | [Equation](https://codeforces.com/problemset/problem/1269/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Equation.cpp) |
 |    1255A     | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Changing_Volume.cpp) |
 |    1257A     | [Two Rival Students](https://codeforces.com/problemset/problem/1257/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rival_Students.cpp) |
