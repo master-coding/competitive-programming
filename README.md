@@ -95,6 +95,7 @@ my competitive programming coding solutions
 |    1422A     | [Fence](https://codeforces.com/problemset/problem/1422/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fence.cpp) |
 |    1417A     | [Copy Paste](https://codeforces.com/problemset/problem/1417/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Copy_paste.cpp) |
 |    1415A     | [Prison Break](https://codeforces.com/problemset/problem/1415/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Prison_Break1.cpp) |
+|    1413A     | [Finding Sasuke](https://codeforces.com/problemset/problem/1413/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Finding_Sasuke.cpp) |
 |    1411B     | [Fair Numbers](https://codeforces.com/problemset/problem/1411/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Numbers.cpp) |
 |    1411A     | [In-game Chat](https://codeforces.com/problemset/problem/1411/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_In_game_Chat.cpp) |
 |    1409A     | [Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_Two_Integers_Problem.cpp) |
