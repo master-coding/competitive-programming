@@ -182,6 +182,7 @@ my competitive programming coding solutions
 |    999A     | [Mishka and Contest](https://codeforces.com/problemset/problem/999/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Contest.cpp) |
 |    996A     | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hit_the_Lottery.cpp) |
 |    988A     | [Diverse Team](https://codeforces.com/problemset/problem/988/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Diverse_Team.cpp) |
+|    987A     | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Infinity_Gauntlet.cpp) |
 |    978B     | [File Name](https://codeforces.com/problemset/problem/978/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_File_Name.cpp) |
 |    978A     | [Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_Duplicates.cpp) |
 |    977A     | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Wrong_Subtraction.cpp) |
