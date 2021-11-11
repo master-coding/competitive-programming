@@ -173,6 +173,7 @@ my competitive programming coding solutions
 |    1088A     | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Ehab_and_another_construction_problem.cpp) |
 |    1077A     | [Frog Jumping](https://codeforces.com/problemset/problem/1077/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Frog_Jumping.cpp) |
 |    1061A     | [Coins](https://codeforces.com/problemset/problem/1061/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Coins.cpp) |
+|    1047A     | [A Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Little_C_Loves_3_I.cpp) |
 |    1041A     | [Heist](https://codeforces.com/problemset/problem/1041/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Heist.cpp) |
 |    1030A     | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_In_Search_of_an_Easy_Problem.cpp) |
 |    1017A     | [The Rank](https://codeforces.com/problemset/problem/1017/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_The_Rank.cpp) |
