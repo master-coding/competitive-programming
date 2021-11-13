@@ -194,6 +194,7 @@ my competitive programming coding solutions
 |    918A     | [Eleven](https://codeforces.com/problemset/problem/918/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Eleven.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    867A     | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Between_the_Offices.cpp) |
+|    855A     | [Tom Riddle's Diary](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tom_Riddle_s_Diary.cpp) |
 |    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
 |    832A     | [Shasha and Sticks](https://codeforces.com/problemset/problem/832/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sasha_and_Sticks.cpp) |
 |    791A     | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bear_and_Big_Brother.cpp) |
