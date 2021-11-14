@@ -15,6 +15,7 @@ my competitive programming coding solutions
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
+|    1607A     | [Linear Keyboard](https://codeforces.com/problemset/problem/1607/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Linear_Keyboard.cpp) |
 |    1593A     | [Elections](https://codeforces.com/problemset/problem/1593/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elections.cpp) |
 |    1592A     | [Gamer Hemose](https://codeforces.com/problemset/problem/1592/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gamer_Hemose.cpp) |
 |    1579A     | [Casimir's String Solitaire](https://codeforces.com/problemset/problem/1579/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Casimir_s_String_Solitaire.cpp) |
