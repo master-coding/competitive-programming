@@ -222,6 +222,7 @@ my competitive programming coding solutions
 |    630A     | [Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
 |    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Again_Twenty_Five_.cpp) |
 |    615A     | [Bulbs](https://codeforces.com/problemset/problem/615/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bulbs.cpp) |
+|    609A     | [USB Flash Drives](https://codeforces.com/problemset/problem/609/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_USB_Flash_Drives.cpp) |
 |    599A     | [Patrick and Shopping](https://codeforces.com/problemset/problem/599/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Patrick_and_Shopping.cpp) |
 |    581A     | [Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vasya_the_Hipster.cpp) |
 |    551A     | [GukiZ and Contest](https://codeforces.com/problemset/problem/551/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_GukiZ_and_Contest.cpp) |
