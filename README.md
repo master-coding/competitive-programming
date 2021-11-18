@@ -179,6 +179,7 @@ my competitive programming coding solutions
 |    1061A     | [Coins](https://codeforces.com/problemset/problem/1061/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Coins.cpp) |
 |    1047A     | [A Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Little_C_Loves_3_I.cpp) |
 |    1041A     | [Heist](https://codeforces.com/problemset/problem/1041/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Heist.cpp) |
+|    1038A     | [Equality](https://codeforces.com/problemset/problem/1038/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Equality.cpp) |
 |    1030A     | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_In_Search_of_an_Easy_Problem.cpp) |
 |    1017A     | [The Rank](https://codeforces.com/problemset/problem/1017/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_The_Rank.cpp) |
 |    1015A     | [Points in Segments](https://codeforces.com/problemset/problem/1015/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Points_in_Segments.cpp) |
