@@ -162,6 +162,7 @@ my competitive programming coding solutions
 |    1173A     | [Nauuo and Votes](https://codeforces.com/problemset/problem/1173/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nauuo_and_Votes.cpp) |
 |    1167A     | [Telephone Number](https://codeforces.com/problemset/problem/1167/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Telephone_Number.cpp) |
 |    1154A     | [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Restoring_Three_Numbers.cpp) |
+|    1152A     | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Neko_Finds_Grapes.cpp) |
 |    1148A     | [Another One Bites The Dust](https://codeforces.com/problemset/problem/1148/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Another_One_Bites_The_Dust_.cpp) |
 |    1146A     | [Love "A"](https://codeforces.com/problemset/problem/1146/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_A_.cpp) |
 |    1118A     | [Water Buying](https://codeforces.com/problemset/problem/1118/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Water_Buying.cpp) |
