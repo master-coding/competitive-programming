@@ -156,7 +156,7 @@ my competitive programming coding solutions
 |    1206A     | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choose_Two_Numbers.cpp) |
 |    1200A     | [Hotelier](https://codeforces.com/problemset/problem/1200/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hotelier.cpp) |
 |    1194A     | [Remove a Progression](https://codeforces.com/problemset/problem/1194/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_a_Progression.cpp) |
-|    1139A     | [Even Substrings](https://codeforces.com/problemset/problem/1139/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Substrings.cpp) |
+|    1189A     | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Keanu_Reeves.cpp) |
 |    1186A     | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vus_the_Cossack_and_a_Contest.cpp) |
 |    1183A     | [Nearest Interesting Number](https://codeforces.com/problemset/problem/1183/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearest_Interesting_Number.cpp) |
 |    1173A     | [Nauuo and Votes](https://codeforces.com/problemset/problem/1173/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nauuo_and_Votes.cpp) |
@@ -165,6 +165,7 @@ my competitive programming coding solutions
 |    1152A     | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Neko_Finds_Grapes.cpp) |
 |    1148A     | [Another One Bites The Dust](https://codeforces.com/problemset/problem/1148/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Another_One_Bites_The_Dust_.cpp) |
 |    1146A     | [Love "A"](https://codeforces.com/problemset/problem/1146/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_A_.cpp) |
+|    1139A     | [Even Substrings](https://codeforces.com/problemset/problem/1139/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Substrings.cpp) |
 |    1118A     | [Water Buying](https://codeforces.com/problemset/problem/1118/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Water_Buying.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
 |    1104A     | [Splitting into digits](https://codeforces.com/problemset/problem/1104/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Splitting_into_digits.cpp) |
