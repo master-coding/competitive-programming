@@ -158,6 +158,7 @@ my competitive programming coding solutions
 |    1194A     | [Remove a Progression](https://codeforces.com/problemset/problem/1194/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_a_Progression.cpp) |
 |    1189A     | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Keanu_Reeves.cpp) |
 |    1186A     | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vus_the_Cossack_and_a_Contest.cpp) |
+|    1185A     | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Ropewalkers.cpp) |
 |    1183A     | [Nearest Interesting Number](https://codeforces.com/problemset/problem/1183/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearest_Interesting_Number.cpp) |
 |    1173A     | [Nauuo and Votes](https://codeforces.com/problemset/problem/1173/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nauuo_and_Votes.cpp) |
 |    1167A     | [Telephone Number](https://codeforces.com/problemset/problem/1167/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Telephone_Number.cpp) |
