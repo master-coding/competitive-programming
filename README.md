@@ -210,6 +210,7 @@ my competitive programming coding solutions
 |    764A     | [Taymyr is calling you](https://codeforces.com/problemset/problem/764/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Taymyr_is_calling_you.cpp) |
 |    746A     | [Compote](https://codeforces.com/problemset/problem/746/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Compote.cpp) |
 |    758A     | [Holiday Of Equality](https://codeforces.com/problemset/problem/758/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Holiday_Of_Equality.cpp) |
+|    755A     | [PolandBall and Hypothesis](https://codeforces.com/problemset/problem/755/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_PolandBall_and_Hypothesis.cpp) |
 |    750A     | [New Year and Hurry](https://codeforces.com/problemset/problem/750/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_New_Year_and_Hurry.cpp) |
 |    749A     | [Bachgold Problem](https://codeforces.com/problemset/problem/749/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bachgold_Problem.cpp) |
 |    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
