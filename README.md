@@ -16,6 +16,7 @@ my competitive programming coding solutions
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
 |    1607A     | [Linear Keyboard](https://codeforces.com/problemset/problem/1607/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Linear_Keyboard.cpp) |
+|    1602A     | [Two Subsequences](https://codeforces.com/problemset/problem/1602/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Subsequences.cpp) |
 |    1594A     | [Consecutive Sum Riddle](https://codeforces.com/problemset/problem/1594/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Consecutive_Sum_Riddle.cpp) |
 |    1593A     | [Elections](https://codeforces.com/problemset/problem/1593/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elections.cpp) |
 |    1592A     | [Gamer Hemose](https://codeforces.com/problemset/problem/1592/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gamer_Hemose.cpp) |
