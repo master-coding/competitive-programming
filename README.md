@@ -201,6 +201,7 @@ my competitive programming coding solutions
 |    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_Company.cpp) |
 |    919A     | [Supermarket](https://codeforces.com/problemset/problem/919/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Supermarket.cpp) |
 |    918A     | [Eleven](https://codeforces.com/problemset/problem/918/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Eleven.cpp) |
+|    898A     | [Rounding](https://codeforces.com/problemset/problem/898/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rounding.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    867A     | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Between_the_Offices.cpp) |
 |    855A     | [Tom Riddle's Diary](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tom_Riddle_s_Diary.cpp) |
