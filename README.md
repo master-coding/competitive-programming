@@ -229,6 +229,7 @@ my competitive programming coding solutions
 |    703A     | [Mishka and Game](https://codeforces.com/problemset/problem/703/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Game.cpp) |
 |    702A     | [Maximum Increase](https://codeforces.com/problemset/problem/702/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Maximum_Increase.cpp) |
 |    701A     | [Cards](https://codeforces.com/problemset/problem/701/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_.cpp) |
+|    688A     | [Opponents](https://codeforces.com/problemset/problem/688/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Opponents.cpp) |
 |    681A     | [A Good Contest](https://codeforces.com/problemset/problem/681/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_A_Good_Contest.cpp) |
 |    677A     | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
 |    630A     | [Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
