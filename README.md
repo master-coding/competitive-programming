@@ -255,6 +255,7 @@ my competitive programming coding solutions
 |    432A     | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choosing_Teams.cpp) |
 |    431A     | [Black Square](https://codeforces.com/problemset/problem/431/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Black_Square.cpp) |
 |    427A     | [Police Recruits](https://codeforces.com/problemset/problem/427/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Police_Recruits.cpp) |
+|    401A     | [Vanya and Cards](https://codeforces.com/problemset/problem/401/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Cards.cpp) |
 |    381A     | [Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sereja_and_Dima.cpp) |
 |    378A     | [Playing with Dice](https://codeforces.com/problemset/problem/378/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Playing_with_Dice.cpp) |
 |    355A     | [Vanya and Fence](https://codeforces.com/problemset/problem/355/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
