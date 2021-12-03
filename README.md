@@ -169,6 +169,7 @@ my competitive programming coding solutions
 |    1148A     | [Another One Bites The Dust](https://codeforces.com/problemset/problem/1148/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Another_One_Bites_The_Dust_.cpp) |
 |    1146A     | [Love "A"](https://codeforces.com/problemset/problem/1146/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_A_.cpp) |
 |    1139A     | [Even Substrings](https://codeforces.com/problemset/problem/1139/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Substrings.cpp) |
+|    1136A     | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nastya_Is_Reading_a_Book.cpp) |
 |    1118A     | [Water Buying](https://codeforces.com/problemset/problem/1118/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Water_Buying.cpp) |
 |    1108A     | [Two distinct Points](https://codeforces.com/problemset/problem/1108/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_distinct_points.cpp) |
 |    1104A     | [Splitting into digits](https://codeforces.com/problemset/problem/1104/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Splitting_into_digits.cpp) |
