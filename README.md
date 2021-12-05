@@ -88,6 +88,7 @@ my competitive programming coding solutions
 |    1451A     | [Subtract or Divide](https://codeforces.com/problemset/problem/1451/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Subtract_or_Divide.cpp) |
 |    1452C     | [Two Brackets](https://codeforces.com/problemset/problem/1452/C) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/C_Two_Brackets.cpp) |
 |    1450A     | [Avoid Trygub](https://codeforces.com/problemset/problem/1450/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Avoid_Trygub.cpp) |
+|    1447A     | [Add Candies](https://codeforces.com/problemset/problem/1447/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Add_Candies.cpp) |
 |    1445A     | [Array Rearrangment](https://codeforces.com/problemset/problem/1445/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Array_Rearragnment.cpp) |
 |    1440A     | [Buy the String](https://codeforces.com/problemset/problem/1440/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Buy_the_String.cpp) |
 |    1438A     | [Specific Tastes of Andre](https://codeforces.com/problemset/problem/1438/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Specific_Tastes_of_Andre.cpp) |
