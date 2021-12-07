@@ -202,6 +202,7 @@ my competitive programming coding solutions
 |    978A     | [Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_Duplicates.cpp) |
 |    977A     | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Wrong_Subtraction.cpp) |
 |    946A     | [Partition](https://codeforces.com/problemset/problem/946/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Partition.cpp) |
+|    937A     | [Olympiad](https://codeforces.com/problemset/problem/937/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Olympiad.cpp) |
 |    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_Company.cpp) |
 |    919A     | [Supermarket](https://codeforces.com/problemset/problem/919/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Supermarket.cpp) |
 |    918A     | [Eleven](https://codeforces.com/problemset/problem/918/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Eleven.cpp) |
