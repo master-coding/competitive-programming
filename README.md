@@ -201,6 +201,7 @@ my competitive programming coding solutions
 |    978B     | [File Name](https://codeforces.com/problemset/problem/978/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_File_Name.cpp) |
 |    978A     | [Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_Duplicates.cpp) |
 |    977A     | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Wrong_Subtraction.cpp) |
+|    950A     | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Left_handers_Right_handers_and_Ambidexters.cpp) |
 |    946A     | [Partition](https://codeforces.com/problemset/problem/946/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Partition.cpp) |
 |    937A     | [Olympiad](https://codeforces.com/problemset/problem/937/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Olympiad.cpp) |
 |    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_Company.cpp) |
