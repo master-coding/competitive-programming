@@ -169,6 +169,7 @@ my competitive programming coding solutions
 |    1152A     | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Neko_Finds_Grapes.cpp) |
 |    1148A     | [Another One Bites The Dust](https://codeforces.com/problemset/problem/1148/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Another_One_Bites_The_Dust_.cpp) |
 |    1146A     | [Love "A"](https://codeforces.com/problemset/problem/1146/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Love_A_.cpp) |
+|    1144A     | [Diverse Strings](https://codeforces.com/problemset/problem/1144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Diverse_Strings_.cpp) |
 |    1143A     | [The Doors](https://codeforces.com/problemset/problem/1143/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_The_Doors_.cpp) |
 |    1139A     | [Even Substrings](https://codeforces.com/problemset/problem/1139/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Substrings.cpp) |
 |    1136A     | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nastya_Is_Reading_a_Book.cpp) |
