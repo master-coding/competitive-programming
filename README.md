@@ -138,7 +138,7 @@ my competitive programming coding solutions
 |    1304A     | [Two Rabbits](https://codeforces.com/problemset/problem/1304/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rabbits.cpp) |
 |    1307A     | [Cow and Haybales](https://codeforces.com/problemset/problem/1307/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cow_and_Haybales.cpp) |
 |    1303A     | [Erasing Zeroes](https://codeforces.com/problemset/problem/1303/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Erasing_Zeroes.cpp) |
-|    1300A     | [Non-Zero](https://codeforces.com/problemset/problem/1300/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Non_Zero.cpp) |
+|    1300A     | [Non-Zero](https://codeforces.com/problemset/problem/1300/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Non_zero.cpp) |
 |    1294A     | [Collecting Coins](https://codeforces.com/problemset/problem/1294/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Collecting_Coins.cpp) |
 |    1287A     | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Angry_Students.cpp) |
 |    1285A     | [Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mezo_Playing_Zoma.cpp) |
