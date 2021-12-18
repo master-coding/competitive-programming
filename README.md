@@ -60,6 +60,7 @@ my competitive programming coding solutions
 |    1521A     | [Nastia and Nearly Good Numbers](https://codeforces.com/problemset/problem/1521/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nastia_and_Nearly_Good_Numbers.cpp) |
 |    1520A     | [Do Not Be Distracted!](https://codeforces.com/problemset/problem/1520/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Do_Not_Be_Distracted_.cpp) |
 |    1519B     | [The Cake Is a Lie](https://codeforces.com/problemset/problem/1519/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_The_Cake_Is_a_Lie.cpp) |
+|    1516A     | [Tit for Tat](https://codeforces.com/problemset/problem/1516/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tit_for_Tat.cpp) |
 |    1515A     | [Phoenix and Gold](https://codeforces.com/problemset/problem/1515/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phoenix_and_Gold.cpp) |
 |    1514A     | [Perfectly Imperfect Array](https://codeforces.com/problemset/problem/1514/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Perfectly_Imperfect_Array.cpp) |
 |    1512A     | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Spy_Detected_.cpp) |
