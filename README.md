@@ -137,6 +137,7 @@ my competitive programming coding solutions
 |    1328A     | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Divisibility_Problem.cpp) |
 |    1325A     | [EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_EhAb_AnD_gCd.cpp) |
 |    1316A     | [Grade Allocation](https://codeforces.com/problemset/problem/1316/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Grade_Allocation.cpp) |
+|    1315A     | [Dead Pixel](https://codeforces.com/problemset/problem/1315/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dead_Pixel.cpp) |
 |    1311A     | [Add Odd or Subract Even](https://codeforces.com/problemset/problem/1311/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Add_Odd_or_Subtract_Even.cpp) |
 |    1304A     | [Two Rabbits](https://codeforces.com/problemset/problem/1304/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Two_Rabbits.cpp) |
 |    1307A     | [Cow and Haybales](https://codeforces.com/problemset/problem/1307/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cow_and_Haybales.cpp) |
