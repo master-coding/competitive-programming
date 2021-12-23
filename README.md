@@ -119,8 +119,9 @@ my competitive programming coding solutions
 |    1385A     | [Three Pairwise Maximums](https://codeforces.com/problemset/problem/1385/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_Pairwise_Maximums.cpp) |
 |    1374A     | [Required Remainder](https://codeforces.com/problemset/problem/1374/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Required_Remainder.cpp) |
 |    1371A     | [Magical Sticks](https://codeforces.com/problemset/problem/1371/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Magical_Sticks.cpp) |
-|    1370A     | [Maximum GCD](https://codeforces.com/problemset/problem/1370/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Maximum_GCD.cpp) |
 |    1372A     | [Omkar and Completion](https://codeforces.com/problemset/problem/1372/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Omkar_and_Completion.cpp) |
+|    1370A     | [Maximum GCD](https://codeforces.com/problemset/problem/1370/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Maximum_GCD.cpp) |
+|    1369A     | [FashionabLee](https://codeforces.com/problemset/problem/1369/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_FashionabLee.cpp) |
 |    1368A     | [C+=](https://codeforces.com/problemset/problem/1368/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_C_.cpp) |
 |    1367B     | [Even Array](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Even_Array.cpp) |
 |    1367A     | [Short Substrings](https://codeforces.com/problemset/problem/1367/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Short_Substrings.cpp) |
