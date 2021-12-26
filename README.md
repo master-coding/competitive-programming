@@ -166,6 +166,7 @@ my competitive programming coding solutions
 |    1207A     | [There Are Two Types of Burgers](https://codeforces.com/problemset/problem/1207/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_There_Are_Two_Types_Of_Burgers.cpp) |
 |    1206A     | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choose_Two_Numbers.cpp) |
 |    1200A     | [Hotelier](https://codeforces.com/problemset/problem/1200/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hotelier.cpp) |
+|    1196A     | [Three Piles of Candies](https://codeforces.com/problemset/problem/1196/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_Piles_of_Candies.cpp) |
 |    1194A     | [Remove a Progression](https://codeforces.com/problemset/problem/1194/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_a_Progression.cpp) |
 |    1189A     | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Keanu_Reeves.cpp) |
 |    1186A     | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vus_the_Cossack_and_a_Contest.cpp) |
