@@ -23,6 +23,7 @@ my competitive programming coding solutions
 |    1594A     | [Consecutive Sum Riddle](https://codeforces.com/problemset/problem/1594/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Consecutive_Sum_Riddle.cpp) |
 |    1593A     | [Elections](https://codeforces.com/problemset/problem/1593/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elections.cpp) |
 |    1592A     | [Gamer Hemose](https://codeforces.com/problemset/problem/1592/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Gamer_Hemose.cpp) |
+|    1585A     | [Life of a Flower](https://codeforces.com/problemset/problem/1585/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Life_of_a_Flower.cpp) |
 |    1582A     | [Luntik and Concerts](https://codeforces.com/problemset/problem/1582/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Luntik_and_Concerts.cpp) |
 |    1579A     | [Casimir's String Solitaire](https://codeforces.com/problemset/problem/1579/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Casimir_s_String_Solitaire.cpp) |
 |    1573A     | [Countdown](https://codeforces.com/problemset/problem/1573/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Countdown.cpp) |
