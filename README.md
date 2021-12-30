@@ -79,6 +79,7 @@ my competitive programming coding solutions
 |    1482A     | [Prison Break](https://codeforces.com/problemset/problem/1482/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Prison_Break.cpp) |
 |    1481A     | [Space Navigation](https://codeforces.com/problemset/problem/1481/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Space_Navigation.cpp) |
 |    1480A     | [Yet Another String Game](https://codeforces.com/problemset/problem/1480/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Yet_Another_String_Game.cpp) |
+|    1474A     | [Puzzle From the Future](https://codeforces.com/problemset/problem/1474/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Puzzle_From_the_Future.cpp) |
 |    1473A     | [Replacing Elements](https://codeforces.com/problemset/problem/1473/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Replacing_Elements.cpp) |
 |    1472B     | [Fair Division](https://codeforces.com/problemset/problem/1472/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Fair_Division.cpp) |
 |    1472A     | [Cards for Friends](https://codeforces.com/problemset/problem/1472/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cards_for_Friends.cpp) |
