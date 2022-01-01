@@ -225,6 +225,7 @@ my competitive programming coding solutions
 |    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_Company.cpp) |
 |    919A     | [Supermarket](https://codeforces.com/problemset/problem/919/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Supermarket.cpp) |
 |    918A     | [Eleven](https://codeforces.com/problemset/problem/918/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Eleven.cpp) |
+|    912A     | [Tricky Alchemy](https://codeforces.com/problemset/problem/912/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tricky_Alchemy.cpp) |
 |    908A     | [New Year and Counting Cards](https://codeforces.com/problemset/problem/908/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_New_Year_and_Counting_Cards.cpp) |
 |    898A     | [Rounding](https://codeforces.com/problemset/problem/898/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rounding.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
