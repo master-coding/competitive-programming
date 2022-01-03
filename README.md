@@ -15,6 +15,7 @@ my competitive programming coding solutions
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
+|    1618A     | [Polycarp and Sums of Subsequences](https://codeforces.com/problemset/problem/1618/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_and_Sums_of_Subsequences.cpp) |
 |    1611B     | [Team Composition: Programmers and Mathematicians](https://codeforces.com/problemset/problem/1611/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Team_Composition_Programmers_and_Mathematicians.cpp) |
 |    1611A     | [Make Even](https://codeforces.com/problemset/problem/1611/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Make_Even.cpp) |
 |    1607A     | [Linear Keyboard](https://codeforces.com/problemset/problem/1607/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Linear_Keyboard.cpp) |
