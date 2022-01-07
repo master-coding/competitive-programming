@@ -16,6 +16,7 @@ my competitive programming coding solutions
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
 |    1621A     | [Stable Arrangement of Rooks](https://codeforces.com/problemset/problem/1621/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Stable_Arrangement_of_Rooks.cpp) |
+|    1619A     | [Square String?](https://codeforces.com/problemset/problem/1619/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Square_String_.cpp) |
 |    1618A     | [Polycarp and Sums of Subsequences](https://codeforces.com/problemset/problem/1618/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_and_Sums_of_Subsequences.cpp) |
 |    1616A     | [Integer Diversity](https://codeforces.com/problemset/problem/1616/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Integer_Diversity.cpp) |
 |    1611B     | [Team Composition: Programmers and Mathematicians](https://codeforces.com/problemset/problem/1611/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Team_Composition_Programmers_and_Mathematicians.cpp) |
