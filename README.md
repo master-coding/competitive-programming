@@ -234,6 +234,7 @@ my competitive programming coding solutions
 |    912A     | [Tricky Alchemy](https://codeforces.com/problemset/problem/912/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tricky_Alchemy.cpp) |
 |    908A     | [New Year and Counting Cards](https://codeforces.com/problemset/problem/908/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_New_Year_and_Counting_Cards.cpp) |
 |    898A     | [Rounding](https://codeforces.com/problemset/problem/898/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rounding.cpp) |
+|    897A     | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Scarborough_Fair.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    867A     | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Between_the_Offices.cpp) |
 |    855A     | [Tom Riddle's Diary](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tom_Riddle_s_Diary.cpp) |
