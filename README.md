@@ -205,6 +205,7 @@ my competitive programming coding solutions
 |    1092A     | [Uniform String](https://codeforces.com/problemset/problem/1092/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Uniform_String.cpp) |
 |    1091A     | [New Year and the Christmas Ornament](https://codeforces.com/problemset/problem/1091/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_New_Year_and_the_Christmas_Ornament.cpp) |
 |    1088A     | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Ehab_and_another_construction_problem.cpp) |
+|    1085A     | [Right-Left Cipher](https://codeforces.com/problemset/problem/1085/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Right_Left_Cipher.cpp) |
 |    1080A     | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Petya_and_Origami.cpp) |
 |    1077A     | [Frog Jumping](https://codeforces.com/problemset/problem/1077/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Frog_Jumping.cpp) |
 |    1065A     | [Vasya and Chocolate](https://codeforces.com/problemset/problem/1065/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vasya_and_Chocolate.cpp) |
