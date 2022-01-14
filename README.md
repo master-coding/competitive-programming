@@ -222,6 +222,7 @@ my competitive programming coding solutions
 |    1003A     | [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_s_Pockets.cpp) |
 |    999A     | [Mishka and Contest](https://codeforces.com/problemset/problem/999/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Contest.cpp) |
 |    996A     | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hit_the_Lottery.cpp) |
+|    992A     | [Nastya and an Array](https://codeforces.com/problemset/problem/992/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nastya_and_an_Array.cpp) |
 |    988A     | [Diverse Team](https://codeforces.com/problemset/problem/988/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Diverse_Team.cpp) |
 |    987A     | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Infinity_Gauntlet.cpp) |
 |    978B     | [File Name](https://codeforces.com/problemset/problem/978/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_File_Name.cpp) |
