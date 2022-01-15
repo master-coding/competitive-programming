@@ -320,6 +320,7 @@ my competitive programming coding solutions
 |    155A     | [I_love_%username%](https://codeforces.com/problemset/problem/155/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_I_love__username_.cpp) |
 |    151A     | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soft_Drinking.cpp) |
 |    148A     | [Insomnia Cure](https://codeforces.com/problemset/problem/148/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Insomnia_cure.cpp) |
+|    146A     | [Lucky Ticket](https://codeforces.com/problemset/problem/146/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Lucky_Ticket.cpp) |
 |    144A     | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Arrival_of_the_General.cpp) |
 |    141A     | [Amusing Joke](https://codeforces.com/problemset/problem/141/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Amusing_Joke.cpp) |
 |    136A     | [Presents](https://codeforces.com/problemset/problem/136/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Presents.cpp) |
