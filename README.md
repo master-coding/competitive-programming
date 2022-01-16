@@ -328,6 +328,7 @@ my competitive programming coding solutions
 |    116A     | [Tram](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tram.cpp) |
 |    112A     | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Petya_and_Strings.cpp) |
 |    110A     | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearly_Lucky_Number.cpp) |
+|    104A     | [Bladkjack](https://codeforces.com/problemset/problem/104/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Blackjack.cpp) |
 |    71A      | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Way_Too_Long_Words.cpp) |
 |    61A      | [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Ultra_Fast_Mathematician.cpp) |
 |    59A      | [Word](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word.cpp) |
