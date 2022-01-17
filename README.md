@@ -303,6 +303,7 @@ my competitive programming coding solutions
 |    344A     | [Magnets](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Magnets.cpp) |
 |    339A     | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Helpful_Maths.cpp) |
 |    330A     | [Cakeminator](https://codeforces.com/problemset/problem/330/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cakeminator.cpp) |
+|    306A     | [Canides](https://codeforces.com/problemset/problem/306/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Candies_.cpp) |
 |    282A     | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bit_.cpp) |
 |    281A     | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word_Capitalization.cpp) |
 |    271A     | [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Beautiful_Year.cpp) |
