@@ -236,6 +236,7 @@ my competitive programming coding solutions
 |    918A     | [Eleven](https://codeforces.com/problemset/problem/918/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Eleven.cpp) |
 |    912A     | [Tricky Alchemy](https://codeforces.com/problemset/problem/912/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tricky_Alchemy.cpp) |
 |    908A     | [New Year and Counting Cards](https://codeforces.com/problemset/problem/908/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_New_Year_and_Counting_Cards.cpp) |
+|    900A     | [Find Extra One](https://codeforces.com/problemset/problem/900/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Find_Extra_One.cpp) |
 |    898A     | [Rounding](https://codeforces.com/problemset/problem/898/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rounding.cpp) |
 |    897A     | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Scarborough_Fair.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
