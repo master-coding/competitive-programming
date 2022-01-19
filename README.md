@@ -240,6 +240,7 @@ my competitive programming coding solutions
 |    898A     | [Rounding](https://codeforces.com/problemset/problem/898/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rounding.cpp) |
 |    897A     | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Scarborough_Fair.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
+|    884A     | [Book Reading](https://codeforces.com/problemset/problem/884/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Book_Reading.cpp) |
 |    867A     | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Between_the_Offices.cpp) |
 |    855A     | [Tom Riddle's Diary](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tom_Riddle_s_Diary.cpp) |
 |    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
