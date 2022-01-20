@@ -182,6 +182,7 @@ my competitive programming coding solutions
 |    1186A     | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vus_the_Cossack_and_a_Contest.cpp) |
 |    1185A     | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Ropewalkers.cpp) |
 |    1183A     | [Nearest Interesting Number](https://codeforces.com/problemset/problem/1183/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nearest_Interesting_Number.cpp) |
+|    1178A     | [Prime Minister](https://codeforces.com/problemset/problem/1178/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Prime_Minister.cpp) |
 |    1173A     | [Nauuo and Votes](https://codeforces.com/problemset/problem/1173/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nauuo_and_Votes.cpp) |
 |    1167A     | [Telephone Number](https://codeforces.com/problemset/problem/1167/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Telephone_Number.cpp) |
 |    1154A     | [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Restoring_Three_Numbers.cpp) |
