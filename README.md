@@ -247,6 +247,7 @@ my competitive programming coding solutions
 |    855A     | [Tom Riddle's Diary](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tom_Riddle_s_Diary.cpp) |
 |    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
 |    832A     | [Shasha and Sticks](https://codeforces.com/problemset/problem/832/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sasha_and_Sticks.cpp) |
+|    821A     | [Okabe and Future Gadget Laboratory](https://codeforces.com/problemset/problem/832/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Okabe_and_Future_Gadget_Laboratory.cpp) |
 |    796A     | [Buying A House](https://codeforces.com/problemset/problem/796/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Buying_A_House.cpp) |
 |    791A     | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bear_and_Big_Brother.cpp) |
 |    785A     | [Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Anton_and_Polyhedrons.cpp) |
