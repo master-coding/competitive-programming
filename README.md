@@ -266,6 +266,7 @@ my competitive programming coding solutions
 |    723A     | [The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_The_New_Year_Meeting_Friends.cpp) |
 |    721A     | [One-dimensional Japanese Crossword](https://codeforces.com/problemset/problem/721/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_One_dimensional_Japanese_Crossword.cpp) |
 |    716A     | [Crazy Computer](https://codeforces.com/problemset/problem/716/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Crazy_Computer.cpp) |
+|    712A     | [Memory and Crow](https://codeforces.com/problemset/problem/712/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Memory_and_Crow.cpp) |
 |    711A     | [Bus to Udayland](https://codeforces.com/problemset/problem/711/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bus_to_Udayland.cpp) |
 |    710A     | [King Moves](https://codeforces.com/problemset/problem/710/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_King_Moves.cpp) |
 |    707A     | [Brain's Photos](https://codeforces.com/problemset/problem/707/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Brain_s_Photos.cpp) |
