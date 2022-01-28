@@ -279,6 +279,7 @@ my competitive programming coding solutions
 |    681A     | [A Good Contest](https://codeforces.com/problemset/problem/681/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_A_Good_Contest.cpp) |
 |    680A     | [Bear and Five Cards](https://codeforces.com/problemset/problem/680/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bear_and_Five_Cards.cpp) |
 |    677A     | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
+|    673A     | [Bear and Game](https://codeforces.com/problemset/problem/673/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bear_and_Game.cpp) |
 |    672A     | [Summer Camp](https://codeforces.com/problemset/problem/672/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Summer_Camp.cpp) |
 |    630A     | [Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
 |    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Again_Twenty_Five_.cpp) |
