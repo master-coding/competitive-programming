@@ -246,6 +246,7 @@ my competitive programming coding solutions
 |    867A     | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Between_the_Offices.cpp) |
 |    859A     | [Declined Finalists](https://codeforces.com/problemset/problem/859/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Declined_Finalists.cpp) |
 |    855A     | [Tom Riddle's Diary](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tom_Riddle_s_Diary.cpp) |
+|    837A     | [Text Volume](https://codeforces.com/problemset/problem/837/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Text_Volume.cpp) |
 |    835A     | [Key races](https://codeforces.com/problemset/problem/835/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Key_races.cpp) |
 |    832A     | [Shasha and Sticks](https://codeforces.com/problemset/problem/832/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sasha_and_Sticks.cpp) |
 |    821A     | [Okabe and Future Gadget Laboratory](https://codeforces.com/problemset/problem/832/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Okabe_and_Future_Gadget_Laboratory.cpp) |
