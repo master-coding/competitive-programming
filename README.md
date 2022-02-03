@@ -243,6 +243,7 @@ my competitive programming coding solutions
 |    897A     | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Scarborough_Fair.cpp) |
 |    894A     | [QAQ](https://codeforces.com/problemset/problem/894/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_QAQ.cpp) |
 |    884A     | [Book Reading](https://codeforces.com/problemset/problem/884/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Book_Reading.cpp) |
+|    873A     | [Chores](https://codeforces.com/problemset/problem/873/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Chores.cpp) |
 |    867A     | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Between_the_Offices.cpp) |
 |    859A     | [Declined Finalists](https://codeforces.com/problemset/problem/859/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Declined_Finalists.cpp) |
 |    855A     | [Tom Riddle's Diary](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tom_Riddle_s_Diary.cpp) |
