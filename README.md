@@ -314,6 +314,7 @@ my competitive programming coding solutions
 |    384A     | [Coder](https://codeforces.com/problemset/problem/384/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Coder.cpp) |
 |    381A     | [Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sereja_and_Dima.cpp) |
 |    378A     | [Playing with Dice](https://codeforces.com/problemset/problem/378/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Playing_with_Dice.cpp) |
+|    363A     | [Soroban](https://codeforces.com/problemset/problem/363/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Soroban.cpp) |
 |    355A     | [Vanya and Fence](https://codeforces.com/problemset/problem/355/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
 |    344A     | [Magnets](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Magnets.cpp) |
 |    339A     | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Helpful_Maths.cpp) |
