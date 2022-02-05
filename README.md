@@ -213,6 +213,7 @@ my competitive programming coding solutions
 |    1065A     | [Vasya and Chocolate](https://codeforces.com/problemset/problem/1065/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vasya_and_Chocolate.cpp) |
 |    1061A     | [Coins](https://codeforces.com/problemset/problem/1061/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Coins.cpp) |
 |    1060A     | [Phone Numbers](https://codeforces.com/problemset/problem/1060/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Phone_Numbers.cpp) |
+|    1056A     | [Determine Line](https://codeforces.com/problemset/problem/1056/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Determine_Line.cpp) |
 |    1047A     | [A Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Little_C_Loves_3_I.cpp) |
 |    1041A     | [Heist](https://codeforces.com/problemset/problem/1041/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Heist.cpp) |
 |    1038A     | [Equality](https://codeforces.com/problemset/problem/1038/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Equality.cpp) |
