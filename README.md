@@ -289,7 +289,8 @@ my competitive programming coding solutions
 |    677A     | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
 |    673A     | [Bear and Game](https://codeforces.com/problemset/problem/673/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bear_and_Game.cpp) |
 |    672A     | [Summer Camp](https://codeforces.com/problemset/problem/672/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Summer_Camp.cpp) |
-|    630A     | [Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Elephant.cpp) |
+|    669A     | [Little Artem and Presents](https://codeforces.com/problemset/problem/669/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Little_Artem_and_Presents.cpp) |
+|    630A     | [Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Again_Twenty_Five_.cpp) |
 |    617A     | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Again_Twenty_Five_.cpp) |
 |    615A     | [Bulbs](https://codeforces.com/problemset/problem/615/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bulbs.cpp) |
 |    609A     | [USB Flash Drives](https://codeforces.com/problemset/problem/609/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_USB_Flash_Drives.cpp) |
