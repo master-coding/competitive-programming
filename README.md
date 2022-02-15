@@ -327,7 +327,7 @@ my competitive programming coding solutions
 |    344A     | [Magnets](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Magnets.cpp) |
 |    339A     | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Helpful_Maths.cpp) |
 |    330A     | [Cakeminator](https://codeforces.com/problemset/problem/330/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cakeminator.cpp) |
-|    306A     | [Canides](https://codeforces.com/problemset/problem/306/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Candies.cpp) |
+|    318A     | [Even Odds](https://codeforces.com/problemset/problem/318/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Odds.cpp) |
 |    302A     | [Eugeny and Array](https://codeforces.com/problemset/problem/302/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Eugeny_and_Array.cpp) |
 |    282A     | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bit_.cpp) |
 |    281A     | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word_Capitalization.cpp) |
