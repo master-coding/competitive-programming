@@ -12,7 +12,8 @@ using namespace std;
 
 int main() {
     speedio;
-    int n, k; cin >> n >> k;
+    int n, k; 
+    cin >> n >> k;
     int arr[n];
     for (int i = 0; i < n; i++) cin >> arr[i];
 
