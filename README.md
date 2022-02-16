@@ -317,6 +317,7 @@ my competitive programming coding solutions
 |    432A     | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choosing_Teams.cpp) |
 |    431A     | [Black Square](https://codeforces.com/problemset/problem/431/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Black_Square.cpp) |
 |    427A     | [Police Recruits](https://codeforces.com/problemset/problem/427/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Police_Recruits.cpp) |
+|    426A     | [Sereja and Mugs](https://codeforces.com/problemset/problem/426/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Sereja_and_Mugs.cpp) |
 |    401A     | [Vanya and Cards](https://codeforces.com/problemset/problem/401/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Cards.cpp) |
 |    386A     | [Second-Price Auction](https://codeforces.com/problemset/problem/386/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Section_Price_Auction.cpp) |
 |    384A     | [Coder](https://codeforces.com/problemset/problem/384/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Coder.cpp) |
