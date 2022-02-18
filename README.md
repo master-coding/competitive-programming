@@ -328,6 +328,7 @@ my competitive programming coding solutions
 |    355A     | [Vanya and Fence](https://codeforces.com/problemset/problem/355/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Vanya_and_Fence.cpp) |
 |    344A     | [Magnets](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Magnets.cpp) |
 |    339A     | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Helpful_Maths.cpp) |
+|    337A     | [Puzzles](https://codeforces.com/problemset/problem/337/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Puzzles.cpp) |
 |    330A     | [Cakeminator](https://codeforces.com/problemset/problem/330/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cakeminator.cpp) |
 |    318A     | [Even Odds](https://codeforces.com/problemset/problem/318/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Even_Odds.cpp) |
 |    302A     | [Eugeny and Array](https://codeforces.com/problemset/problem/302/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Eugeny_and_Array.cpp) |
