@@ -342,6 +342,7 @@ my competitive programming coding solutions
 |    263A     | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Beautiful_Matrix.cpp) |
 |    255A     | [Greg's Workout](https://codeforces.com/problemset/problem/255/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Greg_s_Workout.cpp) |
 |    248A     | [Cupboards](https://codeforces.com/problemset/problem/248/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Cupboards.cpp) |
+|    245A     | [System Administrator](https://codeforces.com/problemset/problem/245/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_System_Administrator.cpp) |
 |    236A     | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Boy_or_Girl.cpp) |
 |    231A     | [Team](https://codeforces.com/problemset/problem/231/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Team.cpp) |
 |    228A     | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Is_your_horseshoe_on_the_other_hoof_.cpp) |
