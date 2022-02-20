@@ -315,6 +315,7 @@ my competitive programming coding solutions
 |    448A     | [Rewards](https://codeforces.com/problemset/problem/448/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Rewards.cpp) |
 |    447A     | [DZY Loves Hash](https://codeforces.com/problemset/problem/447/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_DZY_Loves_Hash.cpp) |
 |    443A     | [Anton and Letters](https://codeforces.com/problemset/problem/443/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Anton_and_Letters.cpp) |
+|    440A     | [Forgotten Episode](https://codeforces.com/problemset/problem/440/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Forgotten_Episode.cpp) |
 |    432A     | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Choosing_Teams.cpp) |
 |    431A     | [Black Square](https://codeforces.com/problemset/problem/431/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Black_Square.cpp) |
 |    427A     | [Police Recruits](https://codeforces.com/problemset/problem/427/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Police_Recruits.cpp) |
