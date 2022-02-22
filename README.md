@@ -236,6 +236,7 @@ my competitive programming coding solutions
 |    977A     | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Wrong_Subtraction.cpp) |
 |    950A     | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Left_handers_Right_handers_and_Ambidexters.cpp) |
 |    946A     | [Partition](https://codeforces.com/problemset/problem/946/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Partition.cpp) |
+|    938A     | [Word Correction](https://codeforces.com/problemset/problem/938/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word_Correction.cpp) |
 |    937A     | [Olympiad](https://codeforces.com/problemset/problem/937/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Olympiad.cpp) |
 |    935A     | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Fafa_and_his_Company.cpp) |
 |    919A     | [Supermarket](https://codeforces.com/problemset/problem/919/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Supermarket.cpp) |
