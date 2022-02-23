@@ -338,6 +338,7 @@ my competitive programming coding solutions
 |    282A     | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bit_.cpp) |
 |    281A     | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Word_Capitalization.cpp) |
 |    278A     | [Circle Line](https://codeforces.com/problemset/problem/278/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Circle_Line.cpp) |
+|    276A     | [Lunch Rush](https://codeforces.com/problemset/problem/276/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Lunch_Rush.cpp) |
 |    271A     | [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Beautiful_Year.cpp) |
 |    268A     | [Games](https://codeforces.com/problemset/problem/268/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Games.cpp) |
 |    266B     | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Queue_at_the_School.cpp) |
