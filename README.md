@@ -280,6 +280,7 @@ my competitive programming coding solutions
 |    712A     | [Memory and Crow](https://codeforces.com/problemset/problem/712/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Memory_and_Crow.cpp) |
 |    711A     | [Bus to Udayland](https://codeforces.com/problemset/problem/711/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bus_to_Udayland.cpp) |
 |    710A     | [King Moves](https://codeforces.com/problemset/problem/710/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_King_Moves.cpp) |
+|    709A     | [Juicer](https://codeforces.com/problemset/problem/709/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Juicer.cpp) |
 |    707A     | [Brain's Photos](https://codeforces.com/problemset/problem/707/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Brain_s_Photos.cpp) |
 |    705A     | [Hulk](https://codeforces.com/problemset/problem/705/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Hulk.cpp) |
 |    703A     | [Mishka and Game](https://codeforces.com/problemset/problem/703/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Mishka_and_Game.cpp) |
