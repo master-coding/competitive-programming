@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define speedio ios_base::sync_with_stdio(false); cin.tie(NULL);
+#define tlp int tc; cin >> tc; while (tc--)
+#define nl '\n'
+#define newline cout << '\n'
+#define ll long long int
+
+#define yes cout << "YES" << nl
+#define no cout << "NO" << nl
+
+int main() {
+    speedio;
+    int n, k, d; cin >> n >> k >> d;
+    long long juiceCollected = 0, ans = 0;
+    for (int i = 0; i < n; i++) {
+        int orange; cin >> orange;
+        if (orange <= k) {
+            juiceCollected += orange;
+        }
+
+        if (juiceCollected > d) {
+            ans++;
+            juiceCollected = 0;
+        }
+    }   
+    cout << ans << nl;
+}
