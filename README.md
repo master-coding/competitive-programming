@@ -223,6 +223,7 @@ my competitive programming coding solutions
 |    1030A     | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_In_Search_of_an_Easy_Problem.cpp) |
 |    1017A     | [The Rank](https://codeforces.com/problemset/problem/1017/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_The_Rank.cpp) |
 |    1015A     | [Points in Segments](https://codeforces.com/problemset/problem/1015/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Points_in_Segments.cpp) |
+|    1009A     | [Game Shopping](https://codeforces.com/problemset/problem/1009/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Game_Shopping.cpp) |
 |    1006A     | [Adjacent Replacements](https://codeforces.com/problemset/problem/1006/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Adjacent_Replacements.cpp) |
 |    1005A     | [Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Tanya_and_Stairways.cpp) |
 |    1003A     | [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Polycarp_s_Pockets.cpp) |
