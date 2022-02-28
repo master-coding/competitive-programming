@@ -15,6 +15,7 @@ my competitive programming coding solutions
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
+|    1627A     | [Not Shading](https://codeforces.com/problemset/problem/1627/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Not_Shading.cpp) |
 |    1624A     | [Plus One on the Subset](https://codeforces.com/problemset/problem/1624/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Plus_One_on_the_Subset.cpp) |
 |    1621A     | [Stable Arrangement of Rooks](https://codeforces.com/problemset/problem/1621/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Stable_Arrangement_of_Rooks.cpp) |
 |    1619A     | [Square String?](https://codeforces.com/problemset/problem/1619/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Square_String_.cpp) |
