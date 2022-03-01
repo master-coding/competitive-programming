@@ -82,6 +82,7 @@ my competitive programming coding solutions
 |    1497A     | [Meximization](https://codeforces.com/problemset/problem/1497/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Meximization.cpp) |
 |    1496A     | [Split it!](https://codeforces.com/problemset/problem/1496/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Split_it_.cpp) |
 |    1492A     | [Three swimmers](https://codeforces.com/problemset/problem/1492/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Three_swimmers.cpp) |
+|    1491A     | [K-th Largest Value](https://codeforces.com/problemset/problem/1491/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_K-th_Largest_Value.cpp) |
 |    1490B     | [Balanced Remainders](https://codeforces.com/problemset/problem/1490/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Balanced_Remainders.cpp) |
 |    1490A     | [Dense Array](https://codeforces.com/problemset/problem/1490/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Dense_Array.cpp) |
 |    1482A     | [Prison Break](https://codeforces.com/problemset/problem/1482/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Prison_Break.cpp) |
