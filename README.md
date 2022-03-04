@@ -236,6 +236,7 @@ my competitive programming coding solutions
 |    992A     | [Nastya and an Array](https://codeforces.com/problemset/problem/992/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Nastya_and_an_Array.cpp) |
 |    988A     | [Diverse Team](https://codeforces.com/problemset/problem/988/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Diverse_Team.cpp) |
 |    987A     | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Infinity_Gauntlet.cpp) |
+|    984A     | [Game](https://codeforces.com/problemset/problem/984/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Game.cpp) |
 |    978B     | [File Name](https://codeforces.com/problemset/problem/978/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_File_Name.cpp) |
 |    978A     | [Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Remove_Duplicates.cpp) |
 |    977A     | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Wrong_Subtraction.cpp) |
