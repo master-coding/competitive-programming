@@ -276,6 +276,7 @@ my competitive programming coding solutions
 |    749A     | [Bachgold Problem](https://codeforces.com/problemset/problem/749/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Bachgold_Problem.cpp) |
 |    748A     | [Santa Claus and a Place in a Class](https://codeforces.com/problemset/problem/748/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Santa_Claus_and_a_Place_in_a_Class.cpp) |
 |    747A     | [Display Size](https://codeforces.com/problemset/problem/747/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Display_Size.cpp) |
+|    735A     | [Ostap and Grasshopper](https://codeforces.com/problemset/problem/735/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Ostap_and_Grasshopper.cpp) |
 |    734B     | [Anton and Digits](https://codeforces.com/problemset/problem/734/B) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/B_Anton_and_Digits.cpp) |
 |    734A     | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Anton_and_Danik.cpp) |
 |    732A     | [Buy a Shovel](https://codeforces.com/problemset/problem/732/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Buy_a_Shovel.cpp) |
