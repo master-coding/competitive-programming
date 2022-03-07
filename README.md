@@ -15,6 +15,7 @@ my competitive programming coding solutions
 
 | Problem Code |                                   Problems                                  | Solution |
 | :----------: |  -------------------------------------------------------------------------  | :------: |
+|    1644A     | [Doors and Keys](https://codeforces.com/problemset/problem/1644/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Doors_and_Keys.cpp) |
 |    1629A     | [Download More RAM](https://codeforces.com/problemset/problem/1629/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Download_More_RAM.cpp) |
 |    1627A     | [Not Shading](https://codeforces.com/problemset/problem/1627/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Not_Shading.cpp) |
 |    1624A     | [Plus One on the Subset](https://codeforces.com/problemset/problem/1624/A) | [Solution](https://github.com/master-coding/competitive-programming/blob/main/codeforces/A_Plus_One_on_the_Subset.cpp) |
